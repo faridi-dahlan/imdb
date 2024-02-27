@@ -1,0 +1,466 @@
+,title,release_year,type,duration,rating,total_user_rating,genre,director,writers_1,writers_2,stars_1,stars_2,stars_3,achievements,first_language,country,budget,gross_worldwide
+0,the shawshank redemption,1994,R,142,9.3,2900000,Drama,Frank Darabont,Stephen King,Frank Darabont,Tim Robbins,Morgan Freeman,Bob Gunton,63,English,United States,25000000.0,28884716.0
+1,jurassic park,1993,PG-13,127,8.2,1100000,Action,Steven Spielberg,Michael Crichton,David Koepp,Sam Neill,Laura Dern,Jeff Goldblum,71,English,United States,63000000.0,1114429886.0
+2,kill bill: vol. 2,2004,R,137,8.0,798000,Action,Quentin Tarantino,Quentin Tarantino,Uma Thurman,Uma Thurman,David Carradine,Michael Madsen,107,English,United States,30000000.0,154117157.0
+3,the godfather,1972,R,175,9.2,2000000,Crime,Francis Ford Coppola,Mario Puzo,Francis Ford Coppola,Marlon Brando,Al Pacino,James Caan,62,English,United States,6000000.0,250341816.0
+4,taxi driver,1976,R,114,8.2,910000,Crime,Martin Scorsese,Paul Schrader,-,Robert De Niro,Jodie Foster,Cybill Shepherd,43,English,United States,1300000.0,28573323.0
+5,slumdog millionaire,2008,R,120,8.0,874000,Crime,Danny Boyle,Simon Beaufoy,Vikas Swarup,Dev Patel,Freida Pinto,Saurabh Shukla,286,English,United Kingdom,15000000.0,378410542.0
+6,the dark knight,2008,PG-13,152,9.0,2800000,Action,Christopher Nolan,Jonathan Nolan,Christopher Nolan,Christian Bale,Heath Ledger,Aaron Eckhart,326,English,United States,185000000.0,1029266147.0
+7,batman begins,2005,PG-13,140,8.2,1600000,Action,Christopher Nolan,Bob Kane,David S. Goyer,Christian Bale,Michael Caine,Ken Watanabe,93,English,United States,150000000.0,375298946.0
+8,dances with wolves,1990,PG-13,181,8.0,288000,Adventure,Kevin Costner,Michael Blake,-,Kevin Costner,Mary McDonnell,Graham Greene,94,English,United States,22000000.0,424208848.0
+9,schindler's list,1993,R,195,9.0,1400000,Biography,Steven Spielberg,Thomas Keneally,Steven Zaillian,Liam Neeson,Ralph Fiennes,Ben Kingsley,140,English,United States,22000000.0,322161245.0
+10,magnolia,1999,R,188,8.0,327000,Drama,Paul Thomas Anderson,Paul Thomas Anderson,-,Tom Cruise,Jason Robards,Julianne Moore,87,English,United States,37000000.0,48451803.0
+11,finding nemo,2003,G,100,8.2,1100000,Animation,Andrew Stanton,Andrew Stanton,Bob Peterson,Albert Brooks,Ellen DeGeneres,Alexander Gould,112,English,United States,94000000.0,941637960.0
+12,the lord of the rings: the return of the king,2003,PG-13,201,9.0,2000000,Action,Peter Jackson,J.R.R. Tolkien,Fran Walsh,Elijah Wood,Viggo Mortensen,Ian McKellen,339,English,New Zealand,94000000.0,1156194180.0
+13,beauty and the beast,1991,G,84,8.0,477000,Animation,Gary Trousdale,Linda Woolverton,Brenda Chapman,Paige O'Hara,Robby Benson,Jesse Corti,65,English,United States,25000000.0,424967620.0
+14,kill bill: vol. 1,2003,R,111,8.2,1200000,Action,Quentin Tarantino,Quentin Tarantino,Uma Thurman,Uma Thurman,David Carradine,Daryl Hannah,133,English,United States,30000000.0,180906076.0
+15,12 angry men,1957,Approved,96,9.0,854000,Crime,Sidney Lumet,Reginald Rose,-,Henry Fonda,Lee J. Cobb,Martin Balsam,28,English,United States,350000.0,955.0
+16,the godfather part ii,1974,R,202,9.0,1400000,Crime,Francis Ford Coppola,Francis Ford Coppola,Mario Puzo,Al Pacino,Robert De Niro,Robert Duvall,38,English,United States,13000000.0,47961919.0
+17,scent of a woman,1992,R,156,8.0,325000,Drama,Martin Brest,Giovanni Arpino,Bo Goldman,Al Pacino,Chris O'Donnell,James Rebhorn,20,English,United States,31000000.0,134095253.0
+18,there will be blood,2007,R,158,8.2,635000,Drama,Paul Thomas Anderson,Paul Thomas Anderson,Upton Sinclair,Daniel Day-Lewis,Paul Dano,Ciarán Hinds,252,English,United States,25000000.0,76182388.0
+19,pulp fiction,1994,R,154,8.9,2200000,Crime,Quentin Tarantino,Quentin Tarantino,Roger Avary,John Travolta,Uma Thurman,Samuel L. Jackson,141,English,United States,8000000.0,213928762.0
+20,big fish,2003,PG-13,125,8.0,457000,Adventure,Tim Burton,Daniel Wallace,John August,Ewan McGregor,Albert Finney,Billy Crudup,69,English,United States,70000000.0,123218424.0
+21,the thing,1982,R,109,8.2,462000,Horror,John Carpenter,Bill Lancaster,John W. Campbell Jr.,Kurt Russell,Wilford Brimley,Keith David,5,English,United States,15000000.0,19862346.0
+22,the graduate,1967,PG,106,8.0,287000,Comedy,Mike Nichols,Calder Willingham,Buck Henry,Dustin Hoffman,Anne Bancroft,Katharine Ross,39,English,United States,3000000.0,105015008.0
+23,the lord of the rings: the fellowship of the ring,2001,PG-13,178,8.9,2000000,Action,Peter Jackson,J.R.R. Tolkien,Fran Walsh,Elijah Wood,Ian McKellen,Orlando Bloom,252,English,New Zealand,93000000.0,883407846.0
+24,the truman show,1998,PG,103,8.2,1200000,Comedy,Peter Weir,Andrew Niccol,-,Jim Carrey,Ed Harris,Laura Linney,109,English (predicted),Unfetch Data,60000000.0,264118712.0
+25,dogville,2003,R,178,8.0,158000,Crime,Lars von Trier,Lars von Trier,-,Nicole Kidman,Paul Bettany,Lauren Bacall,54,English (predicted),Unfetch Data,10000000.0,16690617.0
+26,inception,2010,PG-13,148,8.8,2500000,Action,Christopher Nolan,Christopher Nolan,-,Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page,379,English,United States,160000000.0,839030630.0
+27,the sixth sense,1999,PG-13,107,8.2,1000000,Drama,M. Night Shyamalan,M. Night Shyamalan,-,Bruce Willis,Haley Joel Osment,Toni Collette,93,English,United States,40000000.0,672806432.0
+28,the bourne ultimatum,2007,PG-13,115,8.0,655000,Action,Paul Greengrass,Tony Gilroy,Scott Z. Burns,Matt Damon,Edgar Ramírez,Joan Allen,71,English,United States,110000000.0,444100035.0
+29,fight club,1999,R,139,8.8,2300000,Drama,David Fincher,Chuck Palahniuk,Jim Uhls,Brad Pitt,Edward Norton,Meat Loaf,50,English,Germany,63000000.0,101209702.0
+30,annie hall,1977,PG,93,8.0,277000,Comedy,Woody Allen,Woody Allen,Marshall Brickman,Woody Allen,Diane Keaton,Tony Roberts,41,English,United States,4000000.0,38288028.0
+31,l.a. confidential,1997,R,138,8.2,613000,Crime,Curtis Hanson,James Ellroy,Brian Helgeland,Kevin Spacey,Russell Crowe,Guy Pearce,177,English,United States,35000000.0,126216940.0
+32,forrest gump,1994,PG-13,142,8.8,2200000,Drama,Robert Zemeckis,Winston Groom,Eric Roth,Tom Hanks,Robin Wright,Gary Sinise,124,English,United States,55000000.0,678226465.0
+33,do the right thing,1989,R,120,8.0,111000,Comedy,Spike Lee,Spike Lee,-,Danny Aiello,Ossie Davis,Ruby Dee,40,English,United States,6500000.0,37295445.0
+34,die hard,1988,R,132,8.2,938000,Action,John McTiernan,Roderick Thorp,Jeb Stuart,Bruce Willis,Alan Rickman,Bonnie Bedelia,16,English,United States,28000000.0,143651650.0
+35,"the good, the bad and the ugly",1966,Approved,178,8.8,804000,Adventure,Sergio Leone,Luciano Vincenzoni,Sergio Leone,Clint Eastwood,Eli Wallach,Lee Van Cleef,7,Italian,Italy,1200000.0,25253887.0
+36,jfk,1991,R,189,8.0,169000,Drama,Oliver Stone,Jim Garrison,Jim Marrs,Kevin Costner,Gary Oldman,Jack Lemmon,60,English,United States,40000000.0,205405498.0
+37,the lord of the rings: the two towers,2002,PG-13,179,8.8,1800000,Action,Peter Jackson,J.R.R. Tolkien,Fran Walsh,Elijah Wood,Ian McKellen,Viggo Mortensen,270,English,New Zealand,94000000.0,948945489.0
+38,life of brian,1979,R,94,8.0,420000,Comedy,Terry Jones,Graham Chapman,John Cleese,Graham Chapman,John Cleese,Michael Palin,0,English (predicted),Unfetch Data,4000000.0,20745728.0
+39,casino,1995,R,178,8.2,559000,Crime,Martin Scorsese,Nicholas Pileggi,Martin Scorsese,Robert De Niro,Sharon Stone,Joe Pesci,15,English,United States,52000000.0,116112375.0
+40,interstellar,2014,PG-13,169,8.7,2100000,Adventure,Christopher Nolan,Jonathan Nolan,Christopher Nolan,Matthew McConaughey,Anne Hathaway,Jessica Chastain,192,English,United States,165000000.0,731079637.0
+41,butch cassidy and the sundance kid,1969,PG,110,8.0,226000,Biography,George Roy Hill,William Goldman,-,Paul Newman,Robert Redford,Katharine Ross,37,English,United States,6000000.0,102310823.0
+42,v for vendetta,2005,R,132,8.2,1200000,Action,James McTeigue,Lilly Wachowski,Lana Wachowski,Hugo Weaving,Natalie Portman,Rupert Graves,36,English,United States,54000000.0,134686457.0
+43,goodfellas,1990,R,145,8.7,1200000,Biography,Martin Scorsese,Nicholas Pileggi,Martin Scorsese,Robert De Niro,Ray Liotta,Joe Pesci,82,English,United States,25000000.0,47036784.0
+44,the maltese falcon,1941,Passed,100,8.0,166000,Crime,John Huston,John Huston,Dashiell Hammett,Humphrey Bogart,Mary Astor,Gladys George,9,English,United States,375000.0,34691.0
+45,unforgiven,1992,R,130,8.2,433000,Drama,Clint Eastwood,David Webb Peoples,-,Clint Eastwood,Gene Hackman,Morgan Freeman,98,English,United States,14400000.0,159167799.0
+46,one flew over the cuckoo's nest,1975,R,133,8.7,1100000,Drama,Milos Forman,Lawrence Hauben,Bo Goldman,Jack Nicholson,Louise Fletcher,Michael Berryman,53,English,United States,3000000.0,109114817.0
+47,dog day afternoon,1975,R,125,8.0,271000,Biography,Sidney Lumet,Frank Pierson,P.F. Kluge,Al Pacino,John Cazale,Penelope Allen,34,English,United States,1800000.0,50000000.0
+48,gone with the wind,1939,Passed,238,8.2,332000,Drama,Victor Fleming,Margaret Mitchell,Sidney Howard,Clark Gable,Vivien Leigh,Thomas Mitchell,30,English,United States,3977000.0,402382193.0
+49,the matrix,1999,R,136,8.7,2000000,Action,Lana Wachowski,Lilly Wachowski,Lana Wachowski,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,94,English,United States,63000000.0,467222728.0
+50,cinderella man,2005,PG-13,144,8.0,197000,Biography,Ron Howard,Cliff Hollingsworth,Akiva Goldsman,Russell Crowe,Renée Zellweger,Craig Bierko,61,English,United States,88000000.0,108539911.0
+51,pan's labyrinth,2006,R,118,8.2,699000,Drama,Guillermo del Toro,Guillermo del Toro,-,Ivana Baquero,Ariadna Gil,Sergi López,224,Spanish,Mexico,19000000.0,83862032.0
+52,star wars: episode v - the empire strikes back,1980,PG,124,8.7,1400000,Action,Irvin Kershner,Leigh Brackett,Lawrence Kasdan,Mark Hamill,Harrison Ford,Carrie Fisher,46,English,United States,18000000.0,538375067.0
+53,sling blade,1996,R,135,8.0,98000,Drama,Billy Bob Thornton,Billy Bob Thornton,-,Billy Bob Thornton,Dwight Yoakam,J.T. Walsh,29,English,United States,1000000.0,24444121.0
+54,indiana jones and the last crusade,1989,PG-13,127,8.2,805000,Action,Steven Spielberg,Jeffrey Boam,George Lucas,Harrison Ford,Sean Connery,Alison Doody,33,English,United States,48000000.0,474171806.0
+55,se7en,1995,R,127,8.6,1800000,Crime,David Fincher,Andrew Kevin Walker,-,Morgan Freeman,Brad Pitt,Kevin Spacey,72,English,United States,33000000.0,327333559.0
+56,infernal affairs,2002,R,101,8.0,131000,Action,Andrew Lau,Alan Mak,Felix Chong,Andy Lau,Tony Leung Chiu-wai,Anthony Chau-Sang Wong,50,Cantonese,Hong Kong,6428966.0,8836958.0
+57,the secret in their eyes,2009,R,129,8.2,221000,Drama,Juan José Campanella,Eduardo Sacheri,Juan José Campanella,Ricardo Darín,Soledad Villamil,Pablo Rago,96,English (predicted),Unfetch Data,2000000.0,35079650.0
+58,the silence of the lambs,1991,R,118,8.6,1500000,Crime,Jonathan Demme,Thomas Harris,Ted Tally,Jodie Foster,Anthony Hopkins,Scott Glenn,120,English,United States,19000000.0,272742922.0
+59,the elephant man,1980,PG,124,8.2,256000,Biography,David Lynch,Christopher De Vore,Eric Bergren,Anthony Hopkins,John Hurt,Anne Bancroft,33,English,United States,5000000.0,26023860.0
+60,the green mile,1999,R,189,8.6,1400000,Crime,Frank Darabont,Stephen King,Frank Darabont,Tom Hanks,Michael Clarke Duncan,David Morse,52,English,United States,60000000.0,286801374.0
+61,the great escape,1963,Approved,172,8.2,257000,Adventure,John Sturges,Paul Brickhill,James Clavell,Steve McQueen,James Garner,Richard Attenborough,14,English,United States,4000000.0,228178.0
+62,touch of evil,1958,PG-13,95,8.0,109000,Crime,Orson Welles,Orson Welles,Whit Masterson,Charlton Heston,Orson Welles,Janet Leigh,8,English,United States,829000.0,2285063.0
+63,spirited away,2001,PG,125,8.6,837000,Animation,Hayao Miyazaki,Hayao Miyazaki,-,Daveigh Chase,Suzanne Pleshette,Miyu Irino,89,Japanese,Japan,19000000.0,357287850.0
+64,for a few dollars more,1965,R,132,8.2,272000,Drama,Sergio Leone,Sergio Leone,Fulvio Morsella,Clint Eastwood,Lee Van Cleef,Gian Maria Volontè,2,Italian,Italy,600000.0,15000000.0
+65,star wars: episode iv - a new hope,1977,PG,121,8.6,1400000,Action,George Lucas,George Lucas,-,Mark Hamill,Harrison Ford,Carrie Fisher,97,English,United States,11000000.0,775398007.0
+66,all about eve,1950,Passed,138,8.2,138000,Drama,Joseph L. Mankiewicz,Joseph L. Mankiewicz,Mary Orr,Bette Davis,Anne Baxter,George Sanders,47,English,United States,1400000.0,151052.0
+67,saving private ryan,1998,R,169,8.6,1500000,Drama,Steven Spielberg,Robert Rodat,-,Tom Hanks,Matt Damon,Tom Sizemore,154,English,United States,70000000.0,482349603.0
+68,the treasure of the sierra madre,1948,Passed,126,8.2,132000,Adventure,John Huston,John Huston,B. Traven,Humphrey Bogart,Walter Huston,Tim Holt,20,English,United States,3000000.0,5014000.0
+69,persepolis,2007,PG-13,96,8.0,100000,Animation,Vincent Paronnaud,Marjane Satrapi,Vincent Paronnaud,Chiara Mastroianni,Catherine Deneuve,Gena Rowlands,87,French,France,7300000.0,22783978.0
+70,terminator 2: judgment day,1991,R,137,8.6,1200000,Action,James Cameron,James Cameron,William Wisher,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,72,English,United States,102000000.0,520881154.0
+71,bowling for columbine,2002,R,120,8.0,148000,Documentary,Michael Moore,Michael Moore,-,Michael Moore,Charlton Heston,Marilyn Manson,52,English,United States,4000000.0,58011975.0
+72,life is beautiful,1997,PG-13,116,8.6,737000,Comedy,Roberto Benigni,Vincenzo Cerami,Roberto Benigni,Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini,124,Italian,Italy,20000000.0,230099013.0
+73,mad max: fury road,2015,R,120,8.1,1100000,Action,George Miller,George Miller,Brendan McCarthy,Tom Hardy,Charlize Theron,Nicholas Hoult,478,English,Australia,150000000.0,380418444.0
+74,it's a wonderful life,1946,PG,130,8.6,496000,Drama,Frank Capra,Frances Goodrich,Albert Hackett,James Stewart,Donna Reed,Lionel Barrymore,13,English,United States,3180000.0,9740308.0
+75,gone girl,2014,R,149,8.1,1100000,Drama,David Fincher,Gillian Flynn,-,Ben Affleck,Rosamund Pike,Neil Patrick Harris,252,English,United States,61000000.0,369330363.0
+76,waltz with bashir,2008,R,90,8.0,60000,Documentary,Ari Folman,Ari Folman,-,Ari Folman,Ron Ben-Yishai,Ronny Dayag,109,Hebrew,Israel,1500000.0,11179372.0
+77,prisoners,2013,R,153,8.1,797000,Crime,Denis Villeneuve,Aaron Guzikowski,-,Hugh Jackman,Jake Gyllenhaal,Viola Davis,48,English,United States,46000000.0,122126687.0
+78,gladiator,2000,R,155,8.5,1600000,Action,Ridley Scott,David Franzoni,John Logan,Russell Crowe,Joaquin Phoenix,Connie Nielsen,164,English,United States,103000000.0,465380802.0
+79,fargo,1996,R,98,8.1,720000,Crime,Joel Coen,Ethan Coen,Joel Coen,William H. Macy,Frances McDormand,Steve Buscemi,141,English,United States,7000000.0,60611975.0
+80,sicko,2007,PG-13,123,8.0,77000,Documentary,Michael Moore,Michael Moore,-,Michael Moore,Tucker Albrizzi,Tony Benn,31,English,United States,9000000.0,36163768.0
+81,whiplash,2014,R,106,8.5,972000,Drama,Damien Chazelle,Damien Chazelle,-,Miles Teller,J.K. Simmons,Melissa Benoist,243,English,United States,3300000.0,49440474.0
+82,pirates of the caribbean: the curse of the black pearl,2003,PG-13,143,8.1,1200000,Action,Gore Verbinski,Ted Elliott,Terry Rossio,Johnny Depp,Geoffrey Rush,Orlando Bloom,142,English,United States,140000000.0,654264015.0
+83,the prestige,2006,PG-13,130,8.5,1400000,Drama,Christopher Nolan,Jonathan Nolan,Christopher Nolan,Christian Bale,Hugh Jackman,Scarlett Johansson,50,English,United Kingdom,40000000.0,109676311.0
+84,logan,2017,R,137,8.1,822000,Action,James Mangold,James Mangold,Scott Frank,Hugh Jackman,Patrick Stewart,Dafne Keen,110,English,United States,97000000.0,619179950.0
+85,titanic,1997,PG-13,194,7.9,1300000,Drama,James Cameron,James Cameron,-,Leonardo DiCaprio,Kate Winslet,Billy Zane,209,English,United States,200000000.0,2264743305.0
+86,django unchained,2012,R,165,8.5,1700000,Drama,Quentin Tarantino,Quentin Tarantino,-,Jamie Foxx,Christoph Waltz,Leonardo DiCaprio,216,English,United States,100000000.0,426074373.0
+87,stand by me,1986,R,89,8.1,437000,Adventure,Rob Reiner,Stephen King,Raynold Gideon,Wil Wheaton,River Phoenix,Corey Feldman,18,English,United States,8000000.0,52287414.0
+88,mulholland drive,2001,R,147,7.9,381000,Drama,David Lynch,David Lynch,-,Naomi Watts,Laura Harring,Justin Theroux,110,English,France,15000000.0,20271953.0
+89,the departed,2006,R,151,8.5,1400000,Crime,Martin Scorsese,William Monahan,Alan Mak,Leonardo DiCaprio,Matt Damon,Jack Nicholson,239,English,United States,90000000.0,291480452.0
+90,blade runner,1982,R,117,8.1,816000,Action,Ridley Scott,Hampton Fancher,David Webb Peoples,Harrison Ford,Rutger Hauer,Sean Young,35,English,United States,28000000.0,41713516.0
+100,dead poets society,1989,PG,128,8.1,538000,Comedy,Peter Weir,Tom Schulman,-,Robin Williams,Robert Sean Leonard,Ethan Hawke,39,English,United States,16400000.0,235860116.0
+101,arrival,2016,PG-13,116,7.9,756000,Drama,Denis Villeneuve,Eric Heisserer,Ted Chiang,Amy Adams,Jeremy Renner,Forest Whitaker,338,English (predicted),Unfetch Data,47000000.0,203388186.0
+102,alien,1979,R,117,8.5,941000,Horror,Ridley Scott,Dan O'Bannon,Ronald Shusett,Sigourney Weaver,Tom Skerritt,John Hurt,40,English,United Kingdom,11000000.0,106285522.0
+103,memories of murder,2003,Not Rated,132,8.1,212000,Crime,Bong Joon Ho,Bong Joon Ho,Kwang-rim Kim,Song Kang-ho,Kim Sang-kyung,Kim Roe-ha,43,Korean,South Korea,2800000.0,1204841.0
+104,true romance,1993,R,119,7.9,241000,Crime,Tony Scott,Quentin Tarantino,Roger Avary,Christian Slater,Patricia Arquette,Dennis Hopper,10,English,United States,13000000.0,13088850.0
+105,back to the future,1985,PG,116,8.5,1300000,Adventure,Robert Zemeckis,Robert Zemeckis,Bob Gale,Michael J. Fox,Christopher Lloyd,Lea Thompson,48,English,United States,19000000.0,384577472.0
+106,hacksaw ridge,2016,R,139,8.1,586000,Biography,Mel Gibson,Robert Schenkkan,Andrew Knight,Andrew Garfield,Sam Worthington,Luke Bracey,172,English,Australia,40000000.0,180563636.0
+107,iron man,2008,PG-13,126,7.9,1100000,Action,Jon Favreau,Mark Fergus,Hawk Ostby,Robert Downey Jr.,Gwyneth Paltrow,Terrence Howard,96,English,United States,140000000.0,585796247.0
+108,the usual suspects,1995,R,106,8.5,1100000,Crime,Bryan Singer,Christopher McQuarrie,-,Kevin Spacey,Gabriel Byrne,Chazz Palminteri,54,English,United States,6000000.0,23341568.0
+109,the wizard of oz,1939,G,102,8.1,425000,Adventure,Victor Fleming,Noel Langley,Florence Ryerson,Judy Garland,Frank Morgan,Ray Bolger,27,English,United States,2777000.0,25637669.0
+110,avatar,2009,PG-13,162,7.9,1400000,Action,James Cameron,James Cameron,-,Sam Worthington,Zoe Saldana,Sigourney Weaver,221,English,United States,237000000.0,2923706026.0
+111,casablanca,1942,PG,102,8.5,602000,Drama,Michael Curtiz,Julius J. Epstein,Philip G. Epstein,Humphrey Bogart,Ingrid Bergman,Paul Henreid,25,English,United States,950000.0,4627326.0
+112,rocky,1976,PG,120,8.1,623000,Drama,John G. Avildsen,Sylvester Stallone,-,Sylvester Stallone,Talia Shire,Burt Young,44,English,United States,960000.0,117250587.0
+113,the lion king,1994,G,88,8.5,1100000,Animation,Roger Allers,Irene Mecchi,Jonathan Roberts,Matthew Broderick,Jeremy Irons,James Earl Jones,78,English,United States,45000000.0,968511805.0
+114,almost famous,2000,R,122,7.9,292000,Adventure,Cameron Crowe,Cameron Crowe,-,Billy Crudup,Patrick Fugit,Kate Hudson,157,English,United States,60000000.0,47386287.0
+115,the terminator,1984,R,107,8.1,917000,Action,James Cameron,James Cameron,Gale Anne Hurd,Arnold Schwarzenegger,Linda Hamilton,Michael Biehn,15,English,United Kingdom,6400000.0,78371200.0
+116,edge of tomorrow,2014,PG-13,113,7.9,729000,Action,Doug Liman,Christopher McQuarrie,Jez Butterworth,Tom Cruise,Emily Blunt,Bill Paxton,49,English,United States,178000000.0,370541256.0
+117,the grand budapest hotel,2014,R,99,8.1,878000,Adventure,Wes Anderson,Stefan Zweig,Wes Anderson,Ralph Fiennes,F. Murray Abraham,Mathieu Amalric,362,English,United Kingdom,25000000.0,174563280.0
+118,psycho,1960,R,109,8.5,713000,Horror,Alfred Hitchcock,Joseph Stefano,Robert Bloch,Anthony Perkins,Janet Leigh,Vera Miles,22,English,United States,806947.0,32052925.0
+119,x-men: days of future past,2014,PG-13,132,7.9,741000,Action,Bryan Singer,Simon Kinberg,Jane Goldman,Patrick Stewart,Ian McKellen,Hugh Jackman,64,English,United Kingdom,200000000.0,746045700.0
+120,catch me if you can,2002,PG-13,141,8.1,1100000,Biography,Steven Spielberg,Frank Abagnale Jr.,Stan Redding,Leonardo DiCaprio,Tom Hanks,Christopher Walken,62,English,United States,52000000.0,352114312.0
+121,boogie nights,1997,R,155,7.9,280000,Drama,Paul Thomas Anderson,Paul Thomas Anderson,-,Mark Wahlberg,Julianne Moore,Burt Reynolds,100,English,United States,15000000.0,43117303.0
+122,the big lebowski,1998,R,117,8.1,854000,Comedy,Joel Coen,Ethan Coen,Joel Coen,Jeff Bridges,John Goodman,Julianne Moore,23,English,United States,15000000.0,48057425.0
+123,once upon a time in the west,1968,PG-13,166,8.5,347000,Western,Sergio Leone,Sergio Donati,Sergio Leone,Henry Fonda,Charles Bronson,Claudia Cardinale,11,Italian,Italy,5000000.0,5435312.0
+124,"three billboards outside ebbing, missouri",2017,R,115,8.1,549000,Comedy,Martin McDonagh,Martin McDonagh,-,Frances McDormand,Woody Harrelson,Sam Rockwell,366,English,United Kingdom,15000000.0,162729321.0
+125,rear window,1954,PG,112,8.5,518000,Mystery,Alfred Hitchcock,John Michael Hayes,Cornell Woolrich,James Stewart,Grace Kelly,Wendell Corey,19,English,United States,1000000.0,37034884.0
+126,ratatouille,2007,G,111,8.1,813000,Animation,Brad Bird,Brad Bird,Jan Pinkava,Brad Garrett,Lou Romano,Patton Oswalt,110,English,United States,150000000.0,623726085.0
+127,thor: ragnarok,2017,PG-13,130,7.9,809000,Action,Taika Waititi,Eric Pearson,Craig Kyle,Chris Hemsworth,Tom Hiddleston,Cate Blanchett,56,English,United States,180000000.0,855301806.0
+128,star trek,2009,PG-13,127,7.9,618000,Action,J.J. Abrams,Roberto Orci,Alex Kurtzman,Chris Pine,Zachary Quinto,Simon Pegg,122,English,United States,150000000.0,385680446.0
+129,the exorcist,1973,R,122,8.1,451000,Horror,William Friedkin,William Peter Blatty,-,Ellen Burstyn,Max von Sydow,Linda Blair,39,English,United States,11000000.0,441306145.0
+130,inglourious basterds,2009,R,153,8.4,1600000,Adventure,Quentin Tarantino,Quentin Tarantino,-,Brad Pitt,Diane Kruger,Eli Roth,306,English,Germany,70000000.0,321457747.0
+131,the dark knight rises,2012,PG-13,164,8.4,1800000,Action,Christopher Nolan,Jonathan Nolan,Christopher Nolan,Christian Bale,Tom Hardy,Anne Hathaway,148,English,United States,250000000.0,1114085030.0
+132,how to train your dragon,2010,PG,98,8.1,793000,Animation,Dean DeBlois,William Davies,Dean DeBlois,Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse,88,English,United States,165000000.0,494879471.0
+133,the sound of music,1965,G,172,8.1,258000,Biography,Robert Wise,Georg Hurdalek,Howard Lindsay,Julie Andrews,Christopher Plummer,Eleanor Parker,30,English,United States,8200000.0,159436802.0
+134,in bruges,2008,R,107,7.9,459000,Comedy,Martin McDonagh,Martin McDonagh,-,Colin Farrell,Brendan Gleeson,Ciarán Hinds,79,English,United Kingdom,15000000.0,38937018.0
+135,aliens,1986,R,137,8.4,757000,Action,James Cameron,James Cameron,David Giler,Sigourney Weaver,Michael Biehn,Carrie Henn,45,English,United Kingdom,18500000.0,131060248.0
+136,jaws,1975,PG,124,8.1,654000,Adventure,Steven Spielberg,Peter Benchley,Carl Gottlieb,Roy Scheider,Robert Shaw,Richard Dreyfuss,35,English,United States,7000000.0,477220580.0
+137,the shining,1980,R,146,8.4,1100000,Drama,Stanley Kubrick,Stephen King,Stanley Kubrick,Jack Nicholson,Shelley Duvall,Danny Lloyd,15,English,United Kingdom,19000000.0,47328250.0
+138,district 9,2009,R,112,7.9,713000,Action,Neill Blomkamp,Neill Blomkamp,Terri Tatchell,Sharlto Copley,David James,Jason Cope,148,English,South Africa,30000000.0,210888950.0
+139,apocalypse now,1979,R,147,8.4,704000,Drama,Francis Ford Coppola,John Milius,Francis Ford Coppola,Martin Sheen,Marlon Brando,Robert Duvall,54,English,United States,31500000.0,104880868.0
+140,chinatown,1974,R,130,8.1,347000,Drama,Roman Polanski,Robert Towne,Roman Polanski,Jack Nicholson,Faye Dunaway,John Huston,45,English,United States,6000000.0,29226502.0
+141,room,2015,R,118,8.1,447000,Drama,Lenny Abrahamson,Emma Donoghue,-,Brie Larson,Jacob Tremblay,Sean Bridgers,249,English,Ireland,13000000.0,35401758.0
+142,dallas buyers club,2013,R,117,7.9,515000,Biography,Jean-Marc Vallée,Craig Borten,Melisa Wallack,Matthew McConaughey,Jennifer Garner,Jared Leto,171,English,United States,5000000.0,55198285.0
+143,avengers: infinity war,2018,PG-13,149,8.4,1200000,Action,Anthony Russo,Christopher Markus,Stephen McFeely,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,126,English,United States,321000000.0,2052415039.0
+144,"crouching tiger, hidden dragon",2000,PG-13,120,7.9,280000,Action,Ang Lee,Hui-Ling Wang,James Schamus,Chow Yun-Fat,Michelle Yeoh,Ziyi Zhang,233,Mandarin,Taiwan,17000000.0,213977285.0
+145,life of pi,2012,PG,127,7.9,662000,Adventure,Ang Lee,Yann Martel,David Magee,Suraj Sharma,Irrfan Khan,Adil Hussain,215,English,United States,120000000.0,609016565.0
+146,the deer hunter,1978,R,183,8.1,360000,Drama,Michael Cimino,Michael Cimino,Deric Washburn,Robert De Niro,Christopher Walken,John Cazale,51,English,United States,15000000.0,49074379.0
+147,amadeus,1984,PG,160,8.4,424000,Biography,Milos Forman,Peter Shaffer,Zdenek Mahler,F. Murray Abraham,Tom Hulce,Elizabeth Berridge,58,English,United States,18000000.0,52066791.0
+148,wall·e,2008,G,98,8.4,1200000,Animation,Andrew Stanton,Andrew Stanton,Pete Docter,Ben Burtt,Elissa Knight,Jeff Garlin,191,English,United States,180000000.0,521311890.0
+149,spotlight,2015,R,129,8.1,498000,Biography,Tom McCarthy,Josh Singer,Tom McCarthy,Mark Ruffalo,Michael Keaton,Rachel McAdams,268,English,United States,20000000.0,98690254.0
+150,boyhood,2014,R,165,7.9,366000,Drama,Richard Linklater,Richard Linklater,-,Ellar Coltrane,Patricia Arquette,Ethan Hawke,393,English,United States,4000000.0,48137666.0
+151,brazil,1985,R,132,7.9,210000,Drama,Terry Gilliam,Terry Gilliam,Tom Stoppard,Jonathan Pryce,Kim Greist,Robert De Niro,14,English,United Kingdom,15000000.0,9949953.0
+152,raging bull,1980,R,129,8.1,377000,Biography,Martin Scorsese,Jake LaMotta,Joseph Carter,Robert De Niro,Cathy Moriarty,Joe Pesci,52,English,United States,18000000.0,23404827.0
+153,sunset blvd.,1950,Passed,110,8.4,235000,Drama,Billy Wilder,Charles Brackett,Billy Wilder,William Holden,Gloria Swanson,Erich von Stroheim,39,English,United States,1752000.0,300073.0
+154,rush,2013,R,123,8.1,509000,Action,Ron Howard,Peter Morgan,-,Daniel Brühl,Chris Hemsworth,Olivia Wilde,72,English,United Kingdom,38000000.0,96983009.0
+155,harold and maude,1971,PG,91,7.9,81000,Comedy,Hal Ashby,Colin Higgins,-,Ruth Gordon,Bud Cort,Vivian Pickles,5,English,United States,1200000.0,1464.0
+156,a fistful of dollars,1964,R,99,7.9,231000,Action,Sergio Leone,Adriano Bolzoni,Mark Lowell,Clint Eastwood,Gian Maria Volontè,Marianne Koch,4,English,Italy,200000.0,14516248.0
+157,paths of glory,1957,Approved,88,8.4,210000,Drama,Stanley Kubrick,Stanley Kubrick,Calder Willingham,Kirk Douglas,Ralph Meeker,Adolphe Menjou,8,English,United States,935000.0,5252.0
+158,network,1976,R,121,8.1,169000,Drama,Sidney Lumet,Paddy Chayefsky,-,Faye Dunaway,William Holden,Peter Finch,47,English,United States,3800000.0,23690757.0
+159,witness for the prosecution,1957,Approved,116,8.4,136000,Crime,Billy Wilder,Agatha Christie,Billy Wilder,Tyrone Power,Marlene Dietrich,Charles Laughton,18,English,United States,3000000.0,7693.0
+160,carlito's way,1993,R,144,7.9,231000,Crime,Brian De Palma,Edwin Torres,David Koepp,Al Pacino,Sean Penn,Penelope Ann Miller,11,English,United States,30000000.0,63848322.0
+161,the iron giant,1999,PG,86,8.1,224000,Animation,Brad Bird,Tim McCanlies,Brad Bird,Eli Marienthal,Harry Connick Jr.,Jennifer Aniston,38,English,United States,70000000.0,23335817.0
+162,the artist,2011,PG-13,100,7.9,248000,Comedy,Michel Hazanavicius,Michel Hazanavicius,-,Jean Dujardin,Bérénice Bejo,John Goodman,366,English,France,15000000.0,133471171.0
+163,ben-hur,1959,G,212,8.1,252000,Adventure,William Wyler,Lew Wallace,Karl Tunberg,Charlton Heston,Jack Hawkins,Stephen Boyd,42,English,United States,15000000.0,74437720.0
+164,eternal sunshine of the spotless mind,2004,R,108,8.3,1100000,Drama,Michel Gondry,Charlie Kaufman,Michel Gondry,Jim Carrey,Kate Winslet,Tom Wilkinson,184,English,United States,20000000.0,73387734.0
+165,all the president's men,1976,PG,138,7.9,125000,Drama,Alan J. Pakula,Carl Bernstein,Bob Woodward,Dustin Hoffman,Robert Redford,Jack Warden,40,English,United States,8500000.0,70600414.0
+166,cool hand luke,1967,GP,127,8.1,187000,Crime,Stuart Rosenberg,Donn Pearce,Frank Pierson,Paul Newman,George Kennedy,Strother Martin,16,English,United States,3200000.0,67.0
+167,good will hunting,1997,R,126,8.3,1100000,Drama,Gus Van Sant,Matt Damon,Ben Affleck,Robin Williams,Matt Damon,Ben Affleck,85,English,United States,10000000.0,225933435.0
+168,the wild bunch,1969,R,135,7.9,90000,Action,Sam Peckinpah,Walon Green,Sam Peckinpah,William Holden,Ernest Borgnine,Robert Ryan,14,English,United States,6244087.0,638641.0
+169,in the name of the father,1993,R,133,8.1,186000,Biography,Jim Sheridan,Gerry Conlon,Terry George,Daniel Day-Lewis,Pete Postlethwaite,Alison Crosbie,48,English (predicted),Unfetch Data,13000000.0,65796862.0
+170,american beauty,1999,R,122,8.3,1200000,Drama,Sam Mendes,Alan Ball,-,Kevin Spacey,Annette Bening,Thora Birch,214,English,United States,15000000.0,356296601.0
+171,requiem for a dream,2000,Unrated,102,8.3,892000,Drama,Darren Aronofsky,Hubert Selby Jr.,Darren Aronofsky,Ellen Burstyn,Jared Leto,Jennifer Connelly,106,English,United States,4500000.0,7390108.0
+172,amores perros,2000,R,154,8.1,252000,Drama,Alejandro G. Iñárritu,Guillermo Arriaga,-,Emilio Echevarría,Gael García Bernal,Goya Toledo,79,Spanish,Mexico,2000000.0,20908467.0
+173,heat,1995,R,170,8.3,712000,Action,Michael Mann,Michael Mann,-,Al Pacino,Robert De Niro,Val Kilmer,15,English,United States,60000000.0,187436818.0
+174,king kong,1933,Passed,100,7.9,90000,Adventure,Merian C. Cooper,James Ashmore Creelman,Ruth Rose,Fay Wray,Robert Armstrong,Bruce Cabot,11,English,United States,670000.0,651.0
+176,the killing,1956,Approved,84,7.9,97000,Crime,Stanley Kubrick,Stanley Kubrick,Jim Thompson,Sterling Hayden,Coleen Gray,Vince Edwards,1,English,United States,320000.0,203.0
+177,hotel rwanda,2004,PG-13,121,8.1,370000,Biography,Terry George,Keir Pearson,Terry George,Don Cheadle,Sophie Okonedo,Joaquin Phoenix,65,English,United Kingdom,17500000.0,33882243.0
+178,oldboy,2003,R,120,8.3,628000,Action,Park Chan-wook,Garon Tsuchiya,Nobuaki Minegishi,Choi Min-sik,Yoo Ji-tae,Kang Hye-jeong,67,Korean,South Korea,3000000.0,17504804.0
+179,full metal jacket,1987,R,116,8.3,784000,Drama,Stanley Kubrick,Stanley Kubrick,Michael Herr,Matthew Modine,R. Lee Ermey,Vincent D'Onofrio,23,English,United Kingdom,30000000.0,46358827.0
+180,rope,1948,Approved,80,7.9,152000,Crime,Alfred Hitchcock,Hume Cronyn,Patrick Hamilton,James Stewart,John Dall,Farley Granger,3,English,United States,1500000.0,10590.0
+181,scarface,1983,18+,170,8.3,907000,Crime,Brian De Palma,Oliver Stone,Howard Hawks,Al Pacino,Michelle Pfeiffer,Steven Bauer,8,English,United States,25000000.0,66443303.0
+182,the big sleep,1946,Passed,114,7.9,90000,Crime,Howard Hawks,William Faulkner,Leigh Brackett,Humphrey Bogart,Lauren Bacall,John Ridgely,2,English,United States,250000.0,47912.0
+183,2001: a space odyssey,1968,G,149,8.3,713000,Adventure,Stanley Kubrick,Stanley Kubrick,Arthur C. Clarke,Keir Dullea,Gary Lockwood,William Sylvester,31,English,United Kingdom,12000000.0,66485682.0
+184,incendies,2010,R,131,8.3,196000,Drama,Denis Villeneuve,Denis Villeneuve,Wajdi Mouawad,Lubna Azabal,Mélissa Désormeaux-Poulin,Maxim Gaudette,60,French,Canada,6800000.0,6797861.0
+185,mr. smith goes to washington,1939,Passed,129,8.1,121000,Comedy,Frank Capra,Sidney Buchman,Lewis R. Foster,James Stewart,Jean Arthur,Claude Rains,17,English,United States,1900000.0,144738.0
+186,amélie,2001,R,122,8.3,790000,Comedy,Jean-Pierre Jeunet,Guillaume Laurant,Jean-Pierre Jeunet,Audrey Tautou,Mathieu Kassovitz,Rufus,133,French,France,10000000.0,174605902.0
+187,blackfish,2013,PG-13,83,8.1,72000,Documentary,Gabriela Cowperthwaite,Gabriela Cowperthwaite,Eli B. Despres,Tilikum,Dave Duffus,Samantha Berg,47,English,United States,1500000.0,2303417.0
+188,braveheart,1995,R,178,8.3,1100000,Biography,Mel Gibson,Randall Wallace,-,Mel Gibson,Sophie Marceau,Patrick McGoohan,68,English,United States,72000000.0,213216216.0
+189,reservoir dogs,1992,R,99,8.3,1100000,Crime,Quentin Tarantino,Quentin Tarantino,Roger Avary,Harvey Keitel,Tim Roth,Michael Madsen,35,English,United States,1200000.0,2913644.0
+190,white heat,1949,Not Rated,114,8.1,35000,Action,Raoul Walsh,Ivan Goff,Ben Roberts,James Cagney,Virginia Mayo,Edmond O'Brien,2,English,United States,1300000.0,5534.0
+191,once upon a time in america,1984,R,229,8.3,374000,Crime,Sergio Leone,Harry Grey,Leonardo Benvenuti,Robert De Niro,James Woods,Elizabeth McGovern,24,English,United States,30000000.0,5474818.0
+192,the raid 2,2014,R,150,7.9,131000,Action,Gareth Evans,Gareth Evans,-,Iko Uwais,Yayan Ruhian,Arifin Putra,28,Indonesian,Indonesia,4500000.0,6566916.0
+193,the sting,1973,PG,129,8.3,278000,Comedy,George Roy Hill,David S. Ward,-,Paul Newman,Robert Redford,Robert Shaw,24,English,United States,5500000.0,156000000.0
+194,north by northwest,1959,Approved,136,8.3,344000,Action,Alfred Hitchcock,Ernest Lehman,-,Cary Grant,Eva Marie Saint,James Mason,16,English,United States,3101000.0,144767.0
+195,deadpool,2016,R,108,8.0,1100000,Action,Tim Miller,Rhett Reese,Paul Wernick,Ryan Reynolds,Morena Baccarin,T.J. Miller,107,English,United States,58000000.0,782836791.0
+196,toy story,1995,G,81,8.3,1100000,Animation,John Lasseter,John Lasseter,Pete Docter,Tom Hanks,Tim Allen,Don Rickles,52,English,United States,30000000.0,394436586.0
+197,the princess bride,1987,PG,98,8.0,448000,Adventure,Rob Reiner,William Goldman,-,Cary Elwes,Mandy Patinkin,Robin Wright,17,English,United States,16000000.0,30902869.0
+198,sullivan's travels,1941,Passed,90,7.9,28000,Adventure,Preston Sturges,Preston Sturges,-,Joel McCrea,Veronica Lake,Robert Warwick,2,English,United States,689665.0,10249.0
+199,singin' in the rain,1952,G,103,8.3,258000,Comedy,Stanley Donen,Betty Comden,Adolph Green,Gene Kelly,Donald O'Connor,Debbie Reynolds,17,English,United States,2540800.0,2000288.0
+200,up,2009,PG,96,8.3,1100000,Animation,Pete Docter,Pete Docter,Bob Peterson,Edward Asner,Jordan Nagai,John Ratzenberger,167,English,United States,175000000.0,735099102.0
+201,blade runner 2049,2017,R,164,8.0,649000,Action,Denis Villeneuve,Hampton Fancher,Michael Green,Harrison Ford,Ryan Gosling,Ana de Armas,264,English,United States,150000000.0,267685209.0
+202,the martian,2015,PG-13,144,8.0,914000,Adventure,Ridley Scott,Drew Goddard,Andy Weir,Matt Damon,Jessica Chastain,Kristen Wiig,240,English,United States,108000000.0,630620818.0
+203,her,2013,R,126,8.0,663000,Drama,Spike Jonze,Spike Jonze,-,Joaquin Phoenix,Amy Adams,Scarlett Johansson,269,English,United States,23000000.0,48517427.0
+204,tombstone,1993,R,130,7.8,164000,Biography,George P. Cosmatos,Kevin Jarre,-,Kurt Russell,Val Kilmer,Sam Elliott,2,English,United States,25000000.0,56505065.0
+205,vertigo,1958,PG,128,8.3,424000,Mystery,Alfred Hitchcock,Alec Coppel,Samuel A. Taylor,James Stewart,Kim Novak,Barbara Bel Geddes,16,English,United States,2479000.0,7798143.0
+206,the revenant,2015,R,156,8.0,865000,Action,Alejandro G. Iñárritu,Mark L. Smith,Alejandro G. Iñárritu,Leonardo DiCaprio,Tom Hardy,Will Poulter,285,English,Hong Kong,135000000.0,532950503.0
+207,guardians of the galaxy,2014,PG-13,121,8.0,1300000,Action,James Gunn,James Gunn,Nicole Perlman,Chris Pratt,Vin Diesel,Bradley Cooper,155,English,United States,170000000.0,773350147.0
+209,toy story 3,2010,E10+,103,8.3,886000,Animation,Lee Unkrich,John Lasseter,Andrew Stanton,Tom Hanks,Tim Allen,Joan Cusack,158,English,United States,200000000.0,1067316101.0
+210,willy wonka & the chocolate factory,1971,G,100,7.8,224000,Family,Mel Stuart,Roald Dahl,David Seltzer,Gene Wilder,Jack Albertson,Peter Ostrum,6,English,United Kingdom,3000000.0,622861.0
+211,predator,1987,R,107,7.8,450000,Action,John McTiernan,Jim Thomas,John Thomas,Arnold Schwarzenegger,Carl Weathers,Kevin Peter Hall,9,English,United States,15000000.0,98268458.0
+212,to kill a mockingbird,1962,Approved,129,8.3,331000,Crime,Robert Mulligan,Harper Lee,Horton Foote,Gregory Peck,John Megna,Frank Overton,30,English,United States,2000000.0,599146.0
+213,black swan,2010,R,108,8.0,818000,Drama,Darren Aronofsky,Mark Heyman,Andres Heinz,Natalie Portman,Mila Kunis,Vincent Cassel,376,English,United States,13000000.0,329398046.0
+214,atonement,2007,R,123,7.8,297000,Drama,Joe Wright,Ian McEwan,Christopher Hampton,Keira Knightley,James McAvoy,Brenda Blethyn,202,English,United Kingdom,30000000.0,129266061.0
+215,the apartment,1960,Approved,125,8.3,195000,Comedy,Billy Wilder,Billy Wilder,I.A.L. Diamond,Jack Lemmon,Shirley MacLaine,Fred MacMurray,32,English,United States,3000000.0,18778738.0
+216,a separation,2011,PG-13,123,8.3,257000,Drama,Asghar Farhadi,Asghar Farhadi,-,Payman Maadi,Leila Hatami,Sareh Bayat,140,Persian,Iran,500000.0,22926076.0
+217,planet of the apes,1968,G,112,8.0,191000,Adventure,Franklin J. Schaffner,Michael Wilson,Rod Serling,Charlton Heston,Roddy McDowall,Kim Hunter,10,English,United States,5800000.0,32599488.0
+218,groundhog day,1993,PG,101,8.0,679000,Comedy,Harold Ramis,Danny Rubin,Harold Ramis,Bill Murray,Andie MacDowell,Chris Elliott,24,English,United States,14600000.0,71108591.0
+219,the breakfast club,1985,R,97,7.8,433000,Comedy,John Hughes,John Hughes,-,Emilio Estevez,Judd Nelson,Molly Ringwald,4,English,United States,1000000.0,51525171.0
+220,the wolf of wall street,2013,R,180,8.2,1600000,Biography,Martin Scorsese,Terence Winter,Jordan Belfort,Leonardo DiCaprio,Jonah Hill,Margot Robbie,216,English,United States,100000000.0,406878233.0
+221,sin city,2005,R,124,8.0,791000,Crime,Frank Miller,Frank Miller,Robert Rodriguez,Mickey Rourke,Clive Owen,Bruce Willis,92,English,United States,40000000.0,158733820.0
+222,drive,2011,R,100,7.8,698000,Action,Nicolas Winding Refn,Hossein Amini,James Sallis,Ryan Gosling,Carey Mulligan,Bryan Cranston,259,English,United States,15000000.0,78714970.0
+223,shutter island,2010,R,138,8.2,1400000,Mystery,Martin Scorsese,Laeta Kalogridis,Dennis Lehane,Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo,77,English,United States,80000000.0,294805697.0
+224,no country for old men,2007,R,122,8.2,1000000,Crime,Ethan Coen,Joel Coen,Ethan Coen,Tommy Lee Jones,Javier Bardem,Josh Brolin,303,English,United States,25000000.0,171627740.0
+225,the incredibles,2004,PG,115,8.0,800000,Animation,Brad Bird,Brad Bird,-,Craig T. Nelson,Samuel L. Jackson,Holly Hunter,125,English,United States,92000000.0,631684650.0
+226,the hateful eight,2015,R,168,7.8,653000,Crime,Quentin Tarantino,Quentin Tarantino,-,Samuel L. Jackson,Kurt Russell,Jennifer Jason Leigh,162,English,United States,44000000.0,161217616.0
+227,aladdin,1992,G,90,8.0,461000,Animation,Ron Clements,Ron Clements,John Musker,Scott Weinger,Robin Williams,Linda Larkin,56,English (predicted),Unfetch Data,28000000.0,504050219.0
+228,the social network,2010,PG-13,120,7.8,752000,Biography,David Fincher,Aaron Sorkin,Ben Mezrich,Jesse Eisenberg,Andrew Garfield,Justin Timberlake,360,English,United States,40000000.0,224920375.0
+229,casino royale,2006,PG-13,144,8.0,690000,Action,Martin Campbell,Neal Purvis,Robert Wade,Daniel Craig,Eva Green,Judi Dench,72,English,United Kingdom,150000000.0,616505162.0
+230,cast away,2000,PG-13,143,7.8,633000,Adventure,Robert Zemeckis,William Broyles Jr.,-,Tom Hanks,Helen Hunt,Paul Sanchez,51,English,United States,90000000.0,429632142.0
+231,the girl with the dragon tattoo,2011,R,158,7.8,491000,Crime,David Fincher,Steven Zaillian,Stieg Larsson,Daniel Craig,Rooney Mara,Christopher Plummer,117,English,United States,90000000.0,232617430.0
+233,rain man,1988,R,133,8.0,542000,Drama,Barry Levinson,Barry Morrow,Ron Bass,Dustin Hoffman,Tom Cruise,Valeria Golino,52,English,United States,25000000.0,354825435.0
+234,12 monkeys,1995,R,129,8.0,643000,Mystery,Terry Gilliam,Chris Marker,David Webb Peoples,Bruce Willis,Madeleine Stowe,Brad Pitt,36,English,United States,29000000.0,168839459.0
+235,manchester by the sea,2016,R,137,7.8,309000,Drama,Kenneth Lonergan,Kenneth Lonergan,-,Casey Affleck,Michelle Williams,Kyle Chandler,396,English,United States,9000000.0,78988148.0
+236,ferris bueller's day off,1986,PG-13,103,7.8,383000,Comedy,John Hughes,John Hughes,-,Matthew Broderick,Alan Ruck,Mia Sara,3,English,United States,6000000.0,70722101.0
+237,being john malkovich,1999,R,113,7.7,352000,Comedy,Spike Jonze,Charlie Kaufman,-,John Cusack,Cameron Diaz,Catherine Keener,127,English,United States,13000000.0,23106667.0
+238,apocalypto,2006,R,139,7.8,329000,Action,Mel Gibson,Mel Gibson,Farhad Safinia,Gerardo Taracena,Raoul Max Trujillo,Dalia Hernández,32,Maya,United States,40000000.0,120654337.0
+239,the hunger games: catching fire,2013,PG-13,146,7.5,716000,Action,Francis Lawrence,Simon Beaufoy,Michael Arndt,Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth,90,English,United States,130000000.0,865011746.0
+240,skyfall,2012,PG-13,143,7.8,727000,Action,Sam Mendes,Neal Purvis,Robert Wade,Daniel Craig,Javier Bardem,Naomie Harris,194,English,United Kingdom,200000000.0,1142471295.0
+241,donnie brasco,1997,R,127,7.7,330000,Biography,Mike Newell,Joseph D. Pistone,Richard Woodley,Al Pacino,Johnny Depp,Michael Madsen,18,English,United States,35000000.0,124909762.0
+242,total recall,1990,R,113,7.5,352000,Action,Paul Verhoeven,Philip K. Dick,Ronald Shusett,Arnold Schwarzenegger,Sharon Stone,Michael Ironside,23,English,United States,65000000.0,261317921.0
+243,philadelphia,1993,PG-13,125,7.7,256000,Drama,Jonathan Demme,Ron Nyswaner,-,Tom Hanks,Denzel Washington,Roberta Maxwell,43,English,United States,26000000.0,206678440.0
+244,jackie brown,1997,R,154,7.5,371000,Crime,Quentin Tarantino,Quentin Tarantino,Elmore Leonard,Pam Grier,Samuel L. Jackson,Robert Forster,33,English,United States,12000000.0,39675292.0
+245,goldfinger,1964,PG,110,7.7,201000,Action,Guy Hamilton,Richard Maibaum,Paul Dehn,Sean Connery,Gert Fröbe,Honor Blackman,13,English,United Kingdom,3000000.0,51209490.0
+246,the hobbit: the desolation of smaug,2013,PG-13,161,7.8,700000,Adventure,Peter Jackson,Fran Walsh,Philippa Boyens,Ian McKellen,Martin Freeman,Richard Armitage,109,English,New Zealand,225000000.0,959027992.0
+247,the conjuring,2013,R,112,7.5,550000,Horror,James Wan,Chad Hayes,Carey W. Hayes,Patrick Wilson,Vera Farmiga,Ron Livingston,37,English,United States,20000000.0,320406242.0
+248,dirty harry,1971,R,102,7.7,167000,Action,Don Siegel,Harry Julian Fink,Rita M. Fink,Clint Eastwood,Andrew Robinson,Harry Guardino,6,English,United States,4000000.0,35988495.0
+249,captain fantastic,2016,R,118,7.8,233000,Comedy,Matt Ross,Matt Ross,-,Viggo Mortensen,George MacKay,Samantha Isler,66,English (predicted),Unfetch Data,5000000.0,23149206.0
+250,the crow,1994,R,102,7.5,198000,Action,Alex Proyas,James O'Barr,David J. Schow,Brandon Lee,Michael Wincott,Rochelle Davis,12,English,United States,23000000.0,50694671.0
+251,star wars: episode vii - the force awakens,2015,PG-13,138,7.8,968000,Action,J.J. Abrams,Lawrence Kasdan,J.J. Abrams,Daisy Ridley,John Boyega,Oscar Isaac,205,English,United States,245000000.0,2071310218.0
+252,the warriors,1979,R,93,7.5,110000,Action,Walter Hill,Sol Yurick,David Shaber,Michael Beck,James Remar,Dorsey Wright,0,English (predicted),Unfetch Data,4000000.0,22490471.0
+253,the devil's advocate,1997,R,144,7.5,399000,Drama,Taylor Hackford,Andrew Neiderman,Jonathan Lemkin,Keanu Reeves,Al Pacino,Charlize Theron,9,English,Germany,57000000.0,152944660.0
+254,glengarry glen ross,1992,R,100,7.7,115000,Crime,James Foley,David Mamet,-,Al Pacino,Jack Lemmon,Alec Baldwin,22,English,United States,12500000.0,10725228.0
+255,clerks,1994,R,92,7.7,231000,Comedy,Kevin Smith,Kevin Smith,-,Brian O'Halloran,Jeff Anderson,Marilyn Ghigliotti,16,English,United States,27000.0,3151130.0
+256,american gangster,2007,R,157,7.8,450000,Biography,Ridley Scott,Steven Zaillian,Mark Jacobson,Denzel Washington,Russell Crowe,Chiwetel Ejiofor,50,English,United States,100000000.0,269755430.0
+258,batman,1989,PG-13,126,7.5,401000,Action,Tim Burton,Bob Kane,Sam Hamm,Michael Keaton,Jack Nicholson,Kim Basinger,38,English,United States,35000000.0,411569241.0
+259,happiness,1998,NC-17,134,7.7,74000,Comedy,Todd Solondz,Todd Solondz,-,Jane Adams,Jon Lovitz,Philip Seymour Hoffman,38,English,United States,2200000.0,2982011.0
+260,gangs of new york,2002,R,167,7.5,470000,Crime,Martin Scorsese,Jay Cocks,Steven Zaillian,Leonardo DiCaprio,Cameron Diaz,Daniel Day-Lewis,185,English,United States,100000000.0,193772504.0
+261,moon,2009,R,97,7.8,375000,Drama,Duncan Jones,Duncan Jones,Nathan Parker,Sam Rockwell,Kevin Spacey,Dominique McElligott,65,English,United Kingdom,5000000.0,9760107.0
+262,evil dead ii,1987,R,84,7.7,181000,Comedy,Sam Raimi,Sam Raimi,Scott Spiegel,Bruce Campbell,Sarah Berry,Dan Hicks,5,English,United States,3600000.0,5924421.0
+263,interview with the vampire: the vampire chronicles,1994,R,123,7.5,345000,Drama,Neil Jordan,Anne Rice,-,Brad Pitt,Tom Cruise,Antonio Banderas,58,English,United States,60000000.0,223664608.0
+264,the bourne identity,2002,PG-13,119,7.8,573000,Action,Doug Liman,Tony Gilroy,William Blake Herron,Franka Potente,Matt Damon,Chris Cooper,9,English,United States,60000000.0,214034224.0
+265,badlands,1973,PG,94,7.7,78000,Action,Terrence Malick,Terrence Malick,-,Martin Sheen,Sissy Spacek,Warren Oates,5,English,United States,450000.0,54396.0
+266,indiana jones and the temple of doom,1984,PG,118,7.5,532000,Action,Steven Spielberg,Willard Huyck,Gloria Katz,Harrison Ford,Kate Capshaw,Ke Huy Quan,33,English,United States,28000000.0,333107271.0
+267,misery,1990,R,107,7.8,233000,Drama,Rob Reiner,Stephen King,William Goldman,James Caan,Kathy Bates,Richard Farnsworth,16,English,United States,20000000.0,61277597.0
+268,"south park: bigger, longer & uncut",1999,R,81,7.7,214000,Animation,Trey Parker,Trey Parker,Matt Stone,Trey Parker,Matt Stone,Mary Kay Bergman,18,English,United States,21000000.0,83137603.0
+269,juno,2007,PG-13,96,7.5,546000,Comedy,Jason Reitman,Diablo Cody,-,Elliot Page,Michael Cera,Jennifer Garner,191,English,United States,7500000.0,232372681.0
+270,mary poppins,1964,G,139,7.8,185000,Comedy,Robert Stevenson,Bill Walsh,Don DaGradi,Julie Andrews,Dick Van Dyke,David Tomlinson,39,English,United States,6000000.0,103082380.0
+271,source code,2011,PG-13,93,7.5,546000,Action,Duncan Jones,Ben Ripley,-,Jake Gyllenhaal,Michelle Monaghan,Vera Farmiga,8,English (predicted),Unfetch Data,32000000.0,147332697.0
+272,the untouchables,1987,R,119,7.8,329000,Crime,Brian De Palma,David Mamet,Oscar Fraley,Kevin Costner,Sean Connery,Robert De Niro,29,English,United States,25000000.0,76270454.0
+273,kubo and the two strings,2016,PG,101,7.7,138000,Animation,Travis Knight,Marc Haimes,Chris Butler,Charlize Theron,Art Parkinson,Matthew McConaughey,100,English,United Kingdom,60000000.0,76249438.0
+274,nocturnal animals,2016,R,116,7.5,302000,Drama,Tom Ford,Tom Ford,Austin Wright,Amy Adams,Jake Gyllenhaal,Michael Shannon,174,English,United States,22500000.0,30311857.0
+275,frost/nixon,2008,R,122,7.7,112000,Biography,Ron Howard,Peter Morgan,-,Frank Langella,Michael Sheen,Kevin Bacon,104,English,United Kingdom,25000000.0,27426335.0
+276,zombieland,2009,R,88,7.5,616000,Action,Ruben Fleischer,Rhett Reese,Paul Wernick,Jesse Eisenberg,Emma Stone,Woody Harrelson,39,English,United States,23600000.0,102392080.0
+277,back to the future part ii,1989,PG,108,7.8,568000,Adventure,Robert Zemeckis,Robert Zemeckis,Bob Gale,Michael J. Fox,Christopher Lloyd,Lea Thompson,20,English,United States,40000000.0,332500002.0
+278,sleepers,1996,R,147,7.5,236000,Crime,Barry Levinson,Lorenzo Carcaterra,Barry Levinson,Robert De Niro,Kevin Bacon,Brad Pitt,5,English,United States,44000000.0,165615285.0
+279,collateral,2004,R,120,7.5,430000,Action,Michael Mann,Stuart Beattie,-,Tom Cruise,Jamie Foxx,Jada Pinkett Smith,95,English,United States,65000000.0,220239925.0
+280,love and death,1975,PG,85,7.7,41000,Comedy,Woody Allen,Woody Allen,-,Woody Allen,Diane Keaton,Georges Adet,1,English,France,3000000.0,20123742.0
+281,"i, tonya",2017,R,119,7.5,240000,Biography,Craig Gillespie,Steven Rogers,-,Margot Robbie,Sebastian Stan,Allison Janney,171,English,United States,11000000.0,53939297.0
+282,an american werewolf in london,1981,R,97,7.5,119000,Comedy,John Landis,John Landis,-,David Naughton,Jenny Agutter,Joe Belcher,7,English,United Kingdom,10000000.0,30794462.0
+283,lone survivor,2013,R,121,7.5,305000,Action,Peter Berg,Peter Berg,Marcus Luttrell,Mark Wahlberg,Taylor Kitsch,Emile Hirsch,22,English,United States,40000000.0,154802912.0
+284,deadpool 2,2018,R,119,7.6,636000,Action,David Leitch,Rhett Reese,Paul Wernick,Ryan Reynolds,Josh Brolin,Morena Baccarin,58,English,United States,110000000.0,785896609.0
+285,the hurt locker,2008,R,131,7.5,471000,Drama,Kathryn Bigelow,Mark Boal,-,Jeremy Renner,Anthony Mackie,Brian Geraghty,255,English,United States,15000000.0,49259766.0
+286,american psycho,2000,R,102,7.6,704000,Crime,Mary Harron,Bret Easton Ellis,Mary Harron,Christian Bale,Justin Theroux,Josh Lucas,18,English,United States,7000000.0,34266564.0
+287,midnight cowboy,1969,X,113,7.8,119000,Drama,John Schlesinger,Waldo Salt,James Leo Herlihy,Dustin Hoffman,Jon Voight,Sylvia Miles,44,English,United States,3600000.0,44801177.0
+288,fear and loathing in las vegas,1998,R,118,7.5,300000,Adventure,Terry Gilliam,Hunter S. Thompson,Terry Gilliam,Johnny Depp,Benicio Del Toro,Tobey Maguire,3,English,United States,18500000.0,10680275.0
+289,rise of the planet of the apes,2011,PG-13,105,7.6,554000,Action,Rupert Wyatt,Rick Jaffa,Amanda Silver,James Franco,Andy Serkis,Freida Pinto,64,English,United States,93000000.0,481800873.0
+290,moonrise kingdom,2012,PG-13,94,7.8,365000,Adventure,Wes Anderson,Wes Anderson,Roman Coppola,Jared Gilman,Kara Hayward,Bruce Willis,158,English,United States,16000000.0,68264022.0
+291,the aviator,2004,PG-13,170,7.5,382000,Biography,Martin Scorsese,John Logan,-,Leonardo DiCaprio,Cate Blanchett,Kate Beckinsale,220,English,United States,110000000.0,213719942.0
+292,master and commander: the far side of the world,2003,PG-13,138,7.5,236000,Action,Peter Weir,Patrick O'Brian,Peter Weir,Russell Crowe,Paul Bettany,Billy Boyd,113,English,United States,150000000.0,211622535.0
+293,watchmen,2009,R,162,7.6,579000,Action,Zack Snyder,Dave Gibbons,David Hayter,Jackie Earle Haley,Patrick Wilson,Carla Gugino,36,English,United States,130000000.0,185382813.0
+294,the fighter,2010,R,116,7.8,387000,Action,David O. Russell,Scott Silver,Paul Tamasy,Mark Wahlberg,Christian Bale,Amy Adams,197,English,United States,25000000.0,129190869.0
+295,captain phillips,2013,PG-13,134,7.8,489000,Action,Paul Greengrass,Billy Ray,Richard Phillips,Tom Hanks,Barkhad Abdi,Barkhad Abdirahman,171,English,United States,55000000.0,218791811.0
+296,dawn of the planet of the apes,2014,PG-13,130,7.6,465000,Action,Matt Reeves,Mark Bomback,Rick Jaffa,Gary Oldman,Keri Russell,Andy Serkis,65,English,United States,170000000.0,710644566.0
+297,we need to talk about kevin,2011,R,112,7.5,166000,Drama,Lynne Ramsay,Lynne Ramsay,Rory Stewart Kinnear,Tilda Swinton,John C. Reilly,Ezra Miller,92,English,United Kingdom,7000000.0,9232318.0
+298,ed wood,1994,R,127,7.8,183000,Biography,Tim Burton,Rudolph Grey,Scott Alexander,Johnny Depp,Martin Landau,Sarah Jessica Parker,60,English,United States,18000000.0,5887725.0
+299,walk the line,2005,PG-13,136,7.8,264000,Biography,James Mangold,Johnny Cash,Gill Dennis,Joaquin Phoenix,Reese Witherspoon,Ginnifer Goodwin,93,English,Germany,28000000.0,186797986.0
+300,moneyball,2011,PG-13,133,7.6,460000,Biography,Bennett Miller,Steven Zaillian,Aaron Sorkin,Brad Pitt,Robin Wright,Jonah Hill,111,English,United States,50000000.0,110206216.0
+301,scott pilgrim vs. the world,2010,PG-13,112,7.6,462000,Action,Edgar Wright,Michael Bacall,Edgar Wright,Michael Cera,Mary Elizabeth Winstead,Kieran Culkin,83,English,United States,60000000.0,51691156.0
+302,leaving las vegas,1995,R,111,7.5,133000,Drama,Mike Figgis,John O'Brien,Mike Figgis,Nicolas Cage,Elisabeth Shue,Julian Sands,62,English,United States,3600000.0,32029928.0
+303,awakenings,1990,PG-13,121,7.8,157000,Biography,Penny Marshall,Oliver Sacks,Steven Zaillian,Robert De Niro,Robin Williams,Julie Kavner,17,English (predicted),Unfetch Data,31000000.0,52096475.0
+304,127 hours,2010,R,94,7.5,398000,Biography,Danny Boyle,Danny Boyle,Simon Beaufoy,James Franco,Amber Tamblyn,Kate Mara,173,English,United Kingdom,18000000.0,60738797.0
+305,a star is born,2018,R,136,7.6,415000,Drama,Bradley Cooper,Eric Roth,Bradley Cooper,Lady Gaga,Bradley Cooper,Sam Elliott,388,English,United States,36000000.0,436433122.0
+306,the insider,1999,R,157,7.8,179000,Biography,Michael Mann,Marie Brenner,Eric Roth,Russell Crowe,Al Pacino,Christopher Plummer,81,English,United States,90000000.0,60289912.0
+307,hell or high water,2016,R,102,7.6,250000,Crime,David Mackenzie,Taylor Sheridan,-,Chris Pine,Ben Foster,Jeff Bridges,221,English,United States,12000000.0,37999675.0
+308,the king of comedy,1982,PG,109,7.8,118000,Comedy,Martin Scorsese,Paul D. Zimmerman,-,Robert De Niro,Jerry Lewis,Diahnne Abbott,11,English,United States,20000000.0,2536242.0
+309,robocop,1987,R,102,7.6,280000,Action,Paul Verhoeven,Edward Neumeier,Michael Miner,Peter Weller,Nancy Allen,Dan O'Herlihy,24,English,United States,13000000.0,53425389.0
+310,mississippi burning,1988,R,128,7.8,109000,Crime,Alan Parker,Chris Gerolmo,-,Gene Hackman,Willem Dafoe,Frances McDormand,42,English,United States,15000000.0,34603943.0
+311,the godfather part iii,1990,R,162,7.6,421000,Crime,Francis Ford Coppola,Mario Puzo,Francis Ford Coppola,Al Pacino,Diane Keaton,Andy Garcia,29,Persian,United States,54000000.0,136861392.0
+312,dawn of the dead,1978,Unrated,127,7.8,128000,Horror,George A. Romero,George A. Romero,-,David Emge,Ken Foree,Scott H. Reiniger,4,English,United States,650000.0,159822.0
+313,gone baby gone,2007,R,114,7.6,290000,Crime,Ben Affleck,Ben Affleck,Aaron Stockard,Morgan Freeman,Ed Harris,Casey Affleck,65,English,United States,19000000.0,34612443.0
+314,kramer vs. kramer,1979,PG,105,7.8,153000,Drama,Robert Benton,Avery Corman,Robert Benton,Dustin Hoffman,Meryl Streep,Jane Alexander,67,English,United States,8000000.0,106260000.0
+315,star wars: episode iii - revenge of the sith,2005,PG-13,140,7.6,838000,Action,George Lucas,George Lucas,John Ostrander,Hayden Christensen,Natalie Portman,Ewan McGregor,93,English,United States,113000000.0,868390560.0
+316,babel,2006,R,143,7.5,316000,Drama,Alejandro G. Iñárritu,Guillermo Arriaga,Alejandro G. Iñárritu,Brad Pitt,Cate Blanchett,Gael García Bernal,182,English,United States,25000000.0,135330182.0
+317,changeling,2008,R,141,7.8,264000,Biography,Clint Eastwood,J. Michael Straczynski,-,Angelina Jolie,Colm Feore,Amy Ryan,69,English,United States,55000000.0,113398237.0
+318,moulin rouge!,2001,PG-13,127,7.6,298000,Drama,Baz Luhrmann,Baz Luhrmann,Craig Pearce,Nicole Kidman,Ewan McGregor,John Leguizamo,220,English,Australia,50000000.0,184928542.0
+319,the wicker man,1973,R,88,7.5,91000,Horror,Robin Hardy,Anthony Shaffer,David Pinner,Edward Woodward,Christopher Lee,Diane Cilento,9,English,United Kingdom,810000.0,528468.0
+320,the right stuff,1983,PG,193,7.8,65000,Adventure,Philip Kaufman,Philip Kaufman,Tom Wolfe,Sam Shepard,Scott Glenn,Ed Harris,27,English,United States,27000000.0,21192315.0
+321,falling down,1993,R,113,7.6,205000,Action,Joel Schumacher,Ebbe Roe Smith,-,Michael Douglas,Robert Duvall,Barbara Hershey,2,English,United States,25000000.0,40903593.0
+322,dead alive,1992,R,104,7.5,103000,Comedy,Peter Jackson,Stephen Sinclair,Fran Walsh,Timothy Balme,Diana Peñalver,Elizabeth Moody,21,English,New Zealand,3000000.0,242623.0
+323,true grit,2010,PG-13,110,7.6,356000,Drama,Ethan Coen,Joel Coen,Ethan Coen,Jeff Bridges,Matt Damon,Hailee Steinfeld,207,English,United States,38000000.0,252276927.0
+324,night of the living dead,1968,Not Rated,96,7.8,138000,Horror,George A. Romero,John A. Russo,George A. Romero,Duane Jones,Judith O'Dea,Karl Hardman,7,English,United States,114000.0,236452.0
+325,blood simple,1984,R,99,7.5,104000,Crime,Joel Coen,Joel Coen,Ethan Coen,John Getz,Frances McDormand,Dan Hedaya,12,English,United States,1500000.0,4229114.0
+326,once,2007,R,86,7.8,121000,Drama,John Carney,John Carney,-,Glen Hansard,Markéta Irglová,Hugh Walsh,55,English,Ireland,150000.0,20936722.0
+327,kick-ass,2010,R,117,7.6,590000,Action,Matthew Vaughn,Jane Goldman,Matthew Vaughn,Aaron Taylor-Johnson,Nicolas Cage,Chloë Grace Moretz,82,English,United Kingdom,30000000.0,96188903.0
+328,the omen,1976,R,111,7.5,130000,Horror,Richard Donner,David Seltzer,-,Gregory Peck,Lee Remick,Harvey Stephens,14,English,United Kingdom,2800000.0,60922980.0
+329,the road warrior,1981,R,96,7.6,192000,Action,George Miller,Terry Hayes,George Miller,Mel Gibson,Bruce Spence,Michael Preston,20,English,Australia,3000000.0,23668406.0
+330,kiss kiss bang bang,2005,R,103,7.5,236000,Comedy,Shane Black,Brett Halliday,Shane Black,Robert Downey Jr.,Val Kilmer,Michelle Monaghan,21,English,United States,15000000.0,15785148.0
+331,blow-up,1966,Not Rated,111,7.5,67000,Drama,Michelangelo Antonioni,Michelangelo Antonioni,Julio Cortázar,David Hemmings,Vanessa Redgrave,Sarah Miles,17,English,United Kingdom,1800000.0,37964.0
+332,what we do in the shadows,2014,R,86,7.6,199000,Comedy,Jemaine Clement,Jemaine Clement,Taika Waititi,Jemaine Clement,Taika Waititi,Cori Gonzalez-Macuer,44,English,New Zealand,1600000.0,7412611.0
+333,manhattan,1979,R,96,7.8,146000,Comedy,Woody Allen,Woody Allen,Marshall Brickman,Woody Allen,Diane Keaton,Mariel Hemingway,40,English,United States,9000000.0,40194067.0
+334,saw,2004,R,103,7.6,463000,Horror,James Wan,Leigh Whannell,James Wan,Cary Elwes,Leigh Whannell,Danny Glover,19,English,United States,1200000.0,103911669.0
+335,"synecdoche, new york",2008,R,124,7.5,98000,Drama,Charlie Kaufman,Charlie Kaufman,-,Philip Seymour Hoffman,Samantha Morton,Michelle Williams,37,English,United States,20000000.0,4658401.0
+336,inside man,2006,R,129,7.6,395000,Crime,Spike Lee,Russell Gewirtz,-,Denzel Washington,Clive Owen,Jodie Foster,17,English,United States,45000000.0,186003591.0
+337,letters from iwo jima,2006,R,141,7.8,169000,Action,Clint Eastwood,Iris Yamashita,Paul Haggis,Ken Watanabe,Kazunari Ninomiya,Tsuyoshi Ihara,64,Japanese,United States,19000000.0,68673228.0
+338,battle royale,2000,Not Rated,114,7.5,193000,Action,Kinji Fukasaku,Koushun Takami,Kenta Fukasaku,Tatsuya Fujiwara,Aki Maeda,Tarô Yamamoto,15,Japanese,Japan,4500000.0,1340715.0
+339,midnight in paris,2011,PG-13,94,7.6,447000,Comedy,Woody Allen,Woody Allen,-,Owen Wilson,Rachel McAdams,Kathy Bates,129,English,Spain,17000000.0,151672318.0
+340,a prophet,2009,R,155,7.8,102000,Crime,Jacques Audiard,Thomas Bidegain,Jacques Audiard,Tahar Rahim,Niels Arestrup,Adel Bencherif,107,French,France,13000000.0,17874044.0
+341,the player,1992,R,124,7.5,65000,Comedy,Robert Altman,Michael Tolkin,-,Tim Robbins,Greta Scacchi,Fred Ward,57,English,United States,8000000.0,21706101.0
+342,minority report,2002,PG-13,145,7.6,580000,Action,Steven Spielberg,Scott Frank,Jon Cohen,Tom Cruise,Colin Farrell,Samantha Morton,111,English,United States,102000000.0,358372926.0
+343,guardians of the galaxy vol. 2,2017,PG-13,136,7.6,752000,Action,James Gunn,James Gunn,Dan Abnett,Chris Pratt,Zoe Saldana,Dave Bautista,75,English,United States,200000000.0,863756051.0
+344,the long goodbye,1973,R,112,7.5,36000,Comedy,Robert Altman,Leigh Brackett,Raymond Chandler,Elliott Gould,Nina van Pallandt,Sterling Hayden,3,English,United States,1700000.0,21619.0
+345,the fly,1986,R,96,7.6,200000,Drama,David Cronenberg,George Langelaan,Charles Edward Pogue,Jeff Goldblum,Geena Davis,John Getz,17,English,United States,15000000.0,60629159.0
+346,midnight run,1988,R,126,7.5,94000,Action,Martin Brest,George Gallo,-,Robert De Niro,Charles Grodin,Yaphet Kotto,7,English,United States,35000000.0,81613606.0
+347,sherlock holmes,2009,PG-13,128,7.6,666000,Action,Guy Ritchie,Michael Robert Johnson,Anthony Peckham,Robert Downey Jr.,Jude Law,Rachel McAdams,41,English,United States,90000000.0,524028679.0
+348,the muppet christmas carol,1992,G,85,7.8,70000,Comedy,Brian Henson,Charles Dickens,Jerry Juhl,Michael Caine,Dave Goelz,Steve Whitmire,3,English,United States,12000000.0,33274029.0
+349,the fisher king,1991,R,137,7.5,90000,Comedy,Terry Gilliam,Richard LaGravenese,-,Jeff Bridges,Robin Williams,Adam Bryant,53,English,United States,24000000.0,41895491.0
+350,a simple plan,1998,R,121,7.5,76000,Crime,Sam Raimi,Scott B. Smith,-,Bill Paxton,Billy Bob Thornton,Bridget Fonda,40,English,United Kingdom,30000000.0,16316273.0
+351,the others,2001,PG-13,104,7.6,390000,Horror,Alejandro Amenábar,Alejandro Amenábar,-,Nicole Kidman,Christopher Eccleston,Fionnula Flanagan,84,English,Spain,17000000.0,210002852.0
+352,the thin red line,1998,R,170,7.6,198000,Drama,Terrence Malick,James Jones,Terrence Malick,Jim Caviezel,Sean Penn,Nick Nolte,69,English,United States,52000000.0,98126565.0
+353,end of watch,2012,R,109,7.6,266000,Action,David Ayer,David Ayer,-,Jake Gyllenhaal,Michael Peña,Anna Kendrick,13,English,United States,7000000.0,55078146.0
+354,the man who wasn't there,2001,R,116,7.5,114000,Crime,Joel Coen,Joel Coen,Ethan Coen,Billy Bob Thornton,Frances McDormand,Michael Badalucco,68,English,United States,20000000.0,18916623.0
+355,the goonies,1985,PG,114,7.7,296000,Adventure,Richard Donner,Chris Columbus,Steven Spielberg,Sean Astin,Josh Brolin,Jeff Cohen,10,English,United States,19000000.0,64502040.0
+356,mission: impossible - fallout,2018,PG-13,147,7.7,374000,Action,Christopher McQuarrie,Bruce Geller,Christopher McQuarrie,Tom Cruise,Henry Cavill,Ving Rhames,66,English,United States,178000000.0,791657398.0
+357,rebel without a cause,1955,PG-13,111,7.6,97000,Drama,Nicholas Ray,Stewart Stern,Irving Shulman,James Dean,Natalie Wood,Sal Mineo,10,English,United States,1500000.0,213014.0
+358,creed,2015,PG-13,133,7.6,308000,Action,Ryan Coogler,Ryan Coogler,Aaron Covington,Michael B. Jordan,Sylvester Stallone,Tessa Thompson,110,English,United States,35000000.0,174178883.0
+359,the hangover,2009,R,100,7.7,838000,Comedy,Todd Phillips,Jon Lucas,Scott Moore,Zach Galifianakis,Bradley Cooper,Justin Bartha,38,English,United States,35000000.0,469328079.0
+360,kingsman: the secret service,2014,R,129,7.7,710000,Action,Matthew Vaughn,Jane Goldman,Matthew Vaughn,Colin Firth,Taron Egerton,Samuel L. Jackson,47,English,United Kingdom,81000000.0,414351546.0
+361,the naked gun: from the files of police squad!,1988,PG-13,85,7.6,183000,Comedy,David Zucker,Jerry Zucker,Jim Abrahams,Leslie Nielsen,Priscilla Presley,O.J. Simpson,2,English,United States,12000000.0,78756177.0
+362,the producers,1967,PG,88,7.5,59000,Comedy,Mel Brooks,Mel Brooks,-,Zero Mostel,Gene Wilder,Dick Shawn,9,English,United States,941000.0,375524.0
+363,pinocchio,1940,G,88,7.5,158000,Animation,Norman Ferguson,Carlo Collodi,Ted Sears,Dickie Jones,Christian Rub,Mel Blanc,7,English,United States,2600000.0,121892045.0
+365,close encounters of the third kind,1977,PG,138,7.6,215000,Drama,Steven Spielberg,Steven Spielberg,Hal Barwood,Richard Dreyfuss,François Truffaut,Teri Garr,55,English,United States,20000000.0,306889114.0
+366,lost highway,1997,R,134,7.6,152000,Mystery,David Lynch,David Lynch,Barry Gifford,Bill Pullman,Patricia Arquette,John Roselius,10,English,France,15000000.0,3836807.0
+367,sicario,2015,R,121,7.7,468000,Action,Denis Villeneuve,Taylor Sheridan,-,Emily Blunt,Josh Brolin,Benicio Del Toro,172,English,United States,30000000.0,84997446.0
+368,500 days of summer,2009,PG-13,95,7.7,552000,Comedy,Marc Webb,Scott Neustadter,Michael H. Weber,Zooey Deschanel,Joseph Gordon-Levitt,Geoffrey Arend,75,English,United States,7500000.0,60800444.0
+369,quiz show,1994,PG-13,133,7.5,73000,Biography,Robert Redford,Paul Attanasio,Richard N. Goodwin,Ralph Fiennes,John Turturro,Rob Morrow,42,English,United States,31000000.0,24822619.0
+370,after hours,1985,R,97,7.6,80000,Comedy,Martin Scorsese,Joseph Minion,-,Griffin Dunne,Rosanna Arquette,Verna Bloom,13,English,United States,4500000.0,10609321.0
+371,x-men: first class,2011,PG-13,131,7.7,719000,Action,Matthew Vaughn,Ashley Miller,Zack Stentz,James McAvoy,Michael Fassbender,Jennifer Lawrence,62,English,United States,160000000.0,352616690.0
+372,the jungle book,1967,G,78,7.6,197000,Animation,Wolfgang Reitherman,Larry Clemmons,Ralph Wright,Phil Harris,Sebastian Cabot,Louis Prima,10,English,United States,4000000.0,205843612.0
+373,home alone,1990,PG,103,7.7,648000,Comedy,Chris Columbus,John Hughes,-,Macaulay Culkin,Joe Pesci,Daniel Stern,19,English,United States,18000000.0,476684675.0
+374,lord of war,2005,R,122,7.6,335000,Crime,Andrew Niccol,Andrew Niccol,-,Nicolas Cage,Ethan Hawke,Jared Leto,5,English,United States,50000000.0,72617068.0
+375,a hard day's night,1964,G,87,7.5,48000,Comedy,Richard Lester,Alun Owen,-,John Lennon,Paul McCartney,George Harrison,9,English,United Kingdom,560000.0,2360561.0
+376,training day,2001,R,122,7.7,469000,Crime,Antoine Fuqua,David Ayer,-,Denzel Washington,Ethan Hawke,Scott Glenn,41,English (predicted),Unfetch Data,45000000.0,104876233.0
+377,lethal weapon,1987,R,109,7.6,274000,Action,Richard Donner,Shane Black,Jeffrey Boam,Mel Gibson,Danny Glover,Gary Busey,8,English,United States,15000000.0,120207127.0
+378,brokeback mountain,2005,R,134,7.7,379000,Drama,Ang Lee,Annie Proulx,Larry McMurtry,Jake Gyllenhaal,Heath Ledger,Michelle Williams,274,English,United States,14000000.0,178063166.0
+379,traffic,2000,R,147,7.6,219000,Crime,Steven Soderbergh,Simon Moore,Stephen Gaghan,Michael Douglas,Benicio Del Toro,Catherine Zeta-Jones,159,English,United States,48000000.0,207515725.0
+380,silver linings playbook,2012,R,122,7.7,739000,Comedy,David O. Russell,David O. Russell,Matthew Quick,Bradley Cooper,Jennifer Lawrence,Robert De Niro,237,English,United States,21000000.0,236412453.0
+381,the raid: redemption,2011,R,101,7.6,216000,Action,Gareth Evans,Gareth Evans,-,Iko Uwais,Ananda George,Ray Sahetapy,32,Indonesian,Indonesia,1100000.0,9148519.0
+382,die hard with a vengeance,1995,R,128,7.6,406000,Action,John McTiernan,Jonathan Hensleigh,Roderick Thorp,Bruce Willis,Jeremy Irons,Samuel L. Jackson,5,English,United States,90000000.0,366101666.0
+383,lost in translation,2003,R,102,7.7,484000,Comedy,Sofia Coppola,Sofia Coppola,-,Bill Murray,Scarlett Johansson,Giovanni Ribisi,230,English (predicted),Unfetch Data,4000000.0,118686937.0
+384,escape from alcatraz,1979,PG,112,7.6,146000,Action,Don Siegel,J. Campbell Bruce,Richard Tuggle,Clint Eastwood,Patrick McGoohan,Roberts Blossom,0,English (predicted),Unfetch Data,8000000.0,43005351.0
+385,enter the dragon,1973,R,102,7.6,112000,Action,Robert Clouse,Michael Allin,Bruce Lee,Bruce Lee,John Saxon,Jim Kelly,0,English,Hong Kong,850000.0,114252.0
+386,apollo 13,1995,PG,140,7.7,313000,Adventure,Ron Howard,Jim Lovell,Jeffrey Kluger,Tom Hanks,Bill Paxton,Kevin Bacon,90,English,United States,52000000.0,355237933.0
+387,fahrenheit 9/11,2004,R,122,7.5,132000,Documentary,Michael Moore,Michael Moore,-,Michael Moore,George W. Bush,Ben Affleck,46,English,United States,6000000.0,222446882.0
+388,when harry met sally...,1989,R,95,7.7,240000,Comedy,Rob Reiner,Nora Ephron,-,Billy Crystal,Meg Ryan,Carrie Fisher,24,English,United States,16000000.0,93273565.0
+389,roger & me,1989,R,91,7.5,27000,Documentary,Michael Moore,Michael Moore,-,Michael Moore,Roger B. Smith,Rhonda Britton,14,English,United States,160000.0,7706368.0
+390,50/50,2011,R,100,7.6,342000,Comedy,Jonathan Levine,Will Reiser,-,Joseph Gordon-Levitt,Seth Rogen,Anna Kendrick,40,English,United States,8000000.0,41097853.0
+391,blue velvet,1986,R,120,7.7,214000,Crime,David Lynch,David Lynch,-,Isabella Rossellini,Kyle MacLachlan,Dennis Hopper,36,English,United States,6000000.0,8618766.0
+392,taxi to the dark side,2007,R,106,7.5,17000,Documentary,Alex Gibney,Alex Gibney,-,Alex Gibney,Brian Keith Allen,Moazzam Begg,16,English,United States,1000000.0,294309.0
+393,21 grams,2003,R,124,7.6,245000,Crime,Alejandro G. Iñárritu,Guillermo Arriaga,-,Sean Penn,Benicio Del Toro,Naomi Watts,109,English,United States,20000000.0,60466876.0
+394,man on fire,2004,R,146,7.7,387000,Action,Tony Scott,A.J. Quinnell,Brian Helgeland,Denzel Washington,Christopher Walken,Dakota Fanning,7,English,Switzerland,70000000.0,130834852.0
+395,john wick,2014,R,101,7.4,732000,Action,Chad Stahelski,Derek Kolstad,-,Keanu Reeves,Michael Nyqvist,Alfie Allen,15,English,United States,20000000.0,86081850.0
+396,the last king of scotland,2006,R,123,7.6,195000,Biography,Kevin Macdonald,Peter Morgan,Jeremy Brock,James McAvoy,Forest Whitaker,Gillian Anderson,81,English,United Kingdom,6000000.0,48618191.0
+397,crash,2004,R,112,7.7,448000,Crime,Paul Haggis,Paul Haggis,Bobby Moresco,Don Cheadle,Sandra Bullock,Thandiwe Newton,178,English,United States,6500000.0,98410061.0
+398,the nice guys,2016,R,116,7.4,368000,Action,Shane Black,Shane Black,Anthony Bagarozzi,Russell Crowe,Ryan Gosling,Angourie Rice,43,English (predicted),Unfetch Data,50000000.0,71261763.0
+399,25th hour,2002,R,135,7.6,184000,Drama,Spike Lee,David Benioff,-,Edward Norton,Barry Pepper,Philip Seymour Hoffman,21,English,United States,5000000.0,23932055.0
+400,ocean's eleven,2001,PG-13,116,7.7,613000,Crime,Steven Soderbergh,George Clayton Johnson,Jack Golden Russell,George Clooney,Brad Pitt,Julia Roberts,24,English,United States,85000000.0,450717150.0
+401,x2,2003,PG-13,134,7.4,572000,Action,Bryan Singer,Zak Penn,David Hayter,Patrick Stewart,Hugh Jackman,Halle Berry,47,English,Canada,110000000.0,407711549.0
+402,short cuts,1993,R,188,7.6,47000,Comedy,Robert Altman,Raymond Carver,Robert Altman,Andie MacDowell,Julianne Moore,Tim Robbins,36,English,United States,12000000.0,6110979.0
+403,a few good men,1992,R,138,7.7,285000,Drama,Rob Reiner,Aaron Sorkin,-,Tom Cruise,Jack Nicholson,Demi Moore,40,English,United States,41000000.0,243240178.0
+404,spider-man,2002,PG-13,121,7.4,871000,Action,Sam Raimi,Stan Lee,Steve Ditko,Tobey Maguire,Kirsten Dunst,Willem Dafoe,82,English,United States,139000000.0,825025036.0
+405,the last of the mohicans,1992,R,112,7.7,186000,Action,Michael Mann,James Fenimore Cooper,John L. Balderston,Daniel Day-Lewis,Madeleine Stowe,Russell Means,24,English,United States,40000000.0,75505856.0
+406,united 93,2006,R,111,7.6,111000,Action,Paul Greengrass,Paul Greengrass,-,David Alan Basche,Olivia Thirlby,Liza Colón-Zayas,86,English,United States,15000000.0,76700659.0
+407,looper,2012,R,119,7.4,600000,Action,Rian Johnson,Rian Johnson,-,Joseph Gordon-Levitt,Bruce Willis,Emily Blunt,65,English,United States,30000000.0,176506819.0
+408,gravity,2013,PG-13,91,7.7,859000,Drama,Alfonso Cuarón,Alfonso Cuarón,Jonás Cuarón,Sandra Bullock,George Clooney,Ed Harris,428,English,United Kingdom,100000000.0,773031583.0
+409,mission: impossible - rogue nation,2015,PG-13,131,7.4,408000,Action,Christopher McQuarrie,Bruce Geller,Christopher McQuarrie,Tom Cruise,Rebecca Ferguson,Jeremy Renner,32,English,United States,150000000.0,682716636.0
+410,first blood,1982,R,93,7.7,273000,Action,Ted Kotcheff,David Morrell,Michael Kozoll,Sylvester Stallone,Brian Dennehy,Richard Crenna,4,English,United States,15000000.0,125212904.0
+412,galaxy quest,1999,PG,102,7.4,176000,Adventure,Dean Parisot,David Howard,Robert Gordon,Tim Allen,Sigourney Weaver,Alan Rickman,21,English,United States,45000000.0,90683916.0
+413,scream,1996,R,111,7.4,385000,Horror,Wes Craven,Kevin Williamson,-,Neve Campbell,Courteney Cox,David Arquette,23,English,United States,14000000.0,173046663.0
+414,birdman or (the unexpected virtue of ignorance),2014,R,119,7.7,662000,Comedy,Alejandro G. Iñárritu,Alejandro G. Iñárritu,Nicolás Giacobone,Michael Keaton,Zach Galifianakis,Edward Norton,486,English,United States,18000000.0,103215094.0
+415,mission: impossible - ghost protocol,2011,PG-13,132,7.4,525000,Action,Brad Bird,Bruce Geller,Josh Appelbaum,Tom Cruise,Jeremy Renner,Simon Pegg,35,English,United States,145000000.0,694713380.0
+416,primal fear,1996,R,129,7.7,244000,Crime,Gregory Hoblit,William Diehl,Steve Shagan,Richard Gere,Laura Linney,Edward Norton,22,English,United States,30000000.0,102616183.0
+417,uncut gems,2019,R,135,7.4,314000,Crime,Benny Safdie,Ronald Bronstein,Josh Safdie,Adam Sandler,Julia Fox,Idina Menzel,122,English,United States,19000000.0,50023780.0
+418,"o brother, where art thou?",2000,PG-13,107,7.7,329000,Adventure,Joel Coen,Homer,Ethan Coen,George Clooney,John Turturro,Tim Blake Nelson,46,English,United Kingdom,26000000.0,71870729.0
+419,national lampoon's animal house,1978,R,109,7.4,128000,Comedy,John Landis,Harold Ramis,Douglas Kenney,John Belushi,Karen Allen,Tom Hulce,3,English,United States,3000000.0,141607219.0
+420,argo,2012,R,120,7.7,636000,Biography,Ben Affleck,Chris Terrio,Tony Mendez,Ben Affleck,Bryan Cranston,John Goodman,251,English,United Kingdom,44500000.0,232325503.0
+421,pirates of the caribbean: dead man's chest,2006,PG-13,151,7.4,761000,Action,Gore Verbinski,Ted Elliott,Terry Rossio,Johnny Depp,Orlando Bloom,Keira Knightley,99,English,United States,225000000.0,1066179747.0
+422,the lego movie,2014,PG,100,7.7,385000,Animation,Phil Lord,Phil Lord,Christopher Miller,Chris Pratt,Will Ferrell,Elizabeth Banks,139,English,United States,60000000.0,470769648.0
+423,john wick: chapter 3 - parabellum,2019,R,130,7.4,421000,Action,Chad Stahelski,Derek Kolstad,Shay Hatten,Keanu Reeves,Halle Berry,Ian McShane,47,English,United States,75000000.0,328349387.0
+424,the conversation,1974,PG,113,7.7,120000,Drama,Francis Ford Coppola,Francis Ford Coppola,-,Gene Hackman,John Cazale,Allen Garfield,31,English,United States,1600000.0,4696729.0
+425,superman,1978,PG,143,7.4,186000,Action,Richard Donner,Jerry Siegel,Joe Shuster,Christopher Reeve,Margot Kidder,Gene Hackman,41,English,United States,55000000.0,300478449.0
+426,deliverance,1972,R,109,7.7,118000,Adventure,John Boorman,James Dickey,John Boorman,Jon Voight,Burt Reynolds,Ned Beatty,16,English,United States,2000000.0,4534.0
+427,beverly hills cop,1984,R,105,7.4,200000,Action,Martin Brest,Daniel Petrie Jr.,Danilo Bach,Eddie Murphy,Judge Reinhold,John Ashton,11,English,United States,13000000.0,316360478.0
+428,who framed roger rabbit,1988,PG,104,7.7,215000,Animation,Robert Zemeckis,Jeffrey Price,Peter S. Seaman,Bob Hoskins,Christopher Lloyd,Joanna Cassidy,46,English,United States,70000000.0,329803958.0
+429,a nightmare on elm street,1984,R,91,7.4,260000,Horror,Wes Craven,Wes Craven,-,Heather Langenkamp,Johnny Depp,Robert Englund,13,English,United States,1800000.0,25685134.0
+430,captain america: the winter soldier,2014,PG-13,136,7.7,893000,Action,Anthony Russo,Christopher Markus,Stephen McFeely,Chris Evans,Samuel L. Jackson,Scarlett Johansson,57,English,United States,170000000.0,714421503.0
+431,the china syndrome,1979,PG,122,7.4,33000,Drama,James Bridges,Mike Gray,T.S. Cook,Jane Fonda,Jack Lemmon,Michael Douglas,25,English,United States,6000000.0,51718367.0
+432,gattaca,1997,PG-13,106,7.7,321000,Drama,Andrew Niccol,Andrew Niccol,-,Ethan Hawke,Uma Thurman,Jude Law,22,English,United States,36000000.0,12532777.0
+433,zero dark thirty,2012,R,157,7.4,317000,Drama,Kathryn Bigelow,Mark Boal,-,Jessica Chastain,Joel Edgerton,Chris Pratt,259,English,United States,40000000.0,132820716.0
+434,the bourne supremacy,2004,PG-13,108,7.7,484000,Action,Paul Greengrass,Robert Ludlum,Tony Gilroy,Matt Damon,Franka Potente,Joan Allen,27,English,United States,75000000.0,290835269.0
+435,a quiet place,2018,PG-13,90,7.5,577000,Drama,John Krasinski,Bryan Woods,Scott Beck,Emily Blunt,John Krasinski,Millicent Simmonds,165,American,United States,17000000.0,340952971.0
+436,eyes wide shut,1999,TV-MA,159,7.5,371000,Drama,Stanley Kubrick,Stanley Kubrick,Frederic Raphael,Tom Cruise,Nicole Kidman,Todd Field,42,English,United Kingdom,65000000.0,162257226.0
+437,carrie,1976,R,98,7.4,205000,Horror,Brian De Palma,Stephen King,Lawrence D. Cohen,Sissy Spacek,Piper Laurie,Amy Irving,15,English,United States,1800000.0,33800000.0
+438,adaptation.,2002,R,115,7.7,202000,Comedy,Spike Jonze,Susan Orlean,Charlie Kaufman,Nicolas Cage,Meryl Streep,Chris Cooper,167,English,United States,19000000.0,32801173.0
+439,the texas chain saw massacre,1974,R,83,7.4,182000,Horror,Tobe Hooper,Kim Henkel,Tobe Hooper,Marilyn Burns,Edwin Neal,Allen Danziger,5,English,United States,140000.0,30860378.0
+440,road to perdition,2002,R,117,7.7,283000,Crime,Sam Mendes,Max Allan Collins,Richard Piers Rayner,Tom Hanks,Tyler Hoechlin,Paul Newman,105,English,United States,80000000.0,181001478.0
+441,baby driver,2017,R,113,7.5,601000,Action,Edgar Wright,Edgar Wright,-,Ansel Elgort,Jon Bernthal,Jon Hamm,110,English (predicted),Unfetch Data,34000000.0,226945087.0
+442,the town,2010,R,125,7.5,413000,Crime,Ben Affleck,Peter Craig,Ben Affleck,Ben Affleck,Rebecca Hall,Jon Hamm,55,English,United States,37000000.0,154026136.0
+443,the evil dead,1981,NC-17,85,7.4,231000,Horror,Sam Raimi,Sam Raimi,-,Bruce Campbell,Ellen Sandweiss,Richard DeManincor,6,English,United States,350000.0,2895379.0
+444,empire of the sun,1987,PG,153,7.7,133000,Drama,Steven Spielberg,Tom Stoppard,J.G. Ballard,Christian Bale,John Malkovich,Miranda Richardson,30,English,United States,35000000.0,22238696.0
+445,miller's crossing,1990,R,115,7.7,141000,Crime,Joel Coen,Joel Coen,Ethan Coen,Gabriel Byrne,Albert Finney,John Turturro,20,English,United States,14000000.0,5080409.0
+446,witness,1985,R,112,7.4,104000,Drama,Peter Weir,William Kelley,Pamela Wallace,Harrison Ford,Kelly McGillis,Lukas Haas,41,English,United States,12000000.0,68706993.0
+447,up in the air,2009,R,109,7.4,348000,Comedy,Jason Reitman,Walter Kirn,Jason Reitman,George Clooney,Vera Farmiga,Anna Kendrick,246,English,United States,25000000.0,166842739.0
+448,buffalo '66,1998,R,110,7.4,59000,Comedy,Vincent Gallo,Vincent Gallo,Alison Bagnall,Vincent Gallo,Christina Ricci,Ben Gazzara,17,English,United States,1500000.0,2375718.0
+449,borat,2006,R,84,7.4,438000,Comedy,Larry Charles,Sacha Baron Cohen,Anthony Hines,Sacha Baron Cohen,Ken Davitian,Luenell,54,English,United States,18000000.0,262552893.0
+450,terms of endearment,1983,PG,132,7.4,65000,Comedy,James L. Brooks,Larry McMurtry,James L. Brooks,Shirley MacLaine,Debra Winger,Jack Nicholson,54,English,United States,8000000.0,108423749.0
+451,a history of violence,2005,R,96,7.4,251000,Action,David Cronenberg,John Wagner,Vince Locke,Viggo Mortensen,Maria Bello,Ed Harris,121,English,United States,32000000.0,61385065.0
+452,molly's game,2017,R,140,7.4,186000,Biography,Aaron Sorkin,Aaron Sorkin,Molly Bloom,Jessica Chastain,Idris Elba,Kevin Costner,59,English,United States,30000000.0,59284015.0
+453,body heat,1981,R,113,7.4,40000,Crime,Lawrence Kasdan,Lawrence Kasdan,-,William Hurt,Kathleen Turner,Richard Crenna,6,English,United States,9000000.0,24058838.0
+454,jacob's ladder,1990,R,113,7.4,117000,Drama,Adrian Lyne,Bruce Joel Rubin,-,Tim Robbins,Elizabeth Peña,Danny Aiello,4,English,United States,25000000.0,26118851.0
+455,invasion of the body snatchers,1978,PG,115,7.4,69000,Horror,Philip Kaufman,W.D. Richter,Jack Finney,Donald Sutherland,Brooke Adams,Jeff Goldblum,13,English,United States,3500000.0,24946715.0
+456,brick,2005,R,110,7.1,110000,Crime,Rian Johnson,Rian Johnson,-,Joseph Gordon-Levitt,Lukas Haas,Emilie de Ravin,34,English,United States,475000.0,3947579.0
+457,runaway jury,2003,PG-13,127,7.1,104000,Crime,Gary Fleder,John Grisham,Brian Koppelman,John Cusack,Rachel Weisz,Gene Hackman,3,English,United States,60000000.0,80154140.0
+458,notting hill,1999,PG-13,124,7.2,339000,Comedy,Roger Michell,Richard Curtis,-,Hugh Grant,Julia Roberts,Richard McCabe,28,English,United Kingdom,42000000.0,363889678.0
+459,the lost boys,1987,R,97,7.2,160000,Comedy,Joel Schumacher,Jan Fischer,James Jeremias,Jason Patric,Corey Haim,Dianne Wiest,8,English,United States,8500000.0,32505409.0
+460,bad santa,2003,R,92,7.1,155000,Comedy,Terry Zwigoff,Glenn Ficarra,John Requa,Billy Bob Thornton,Bernie Mac,Lauren Graham,12,English,Germany,23000000.0,76490720.0
+461,garden state,2004,R,102,7.4,223000,Comedy,Zach Braff,Zach Braff,-,Zach Braff,Peter Sarsgaard,Natalie Portman,52,English (predicted),Unfetch Data,2500000.0,35825316.0
+462,mission: impossible,1996,PG-13,110,7.2,467000,Action,Brian De Palma,Bruce Geller,David Koepp,Tom Cruise,Jon Voight,Emmanuelle Béart,20,English,United States,80000000.0,457696391.0
+463,the muppets,2011,PG,103,7.1,96000,Adventure,James Bobin,Jason Segel,Nicholas Stoller,Amy Adams,Jason Segel,Chris Cooper,60,English,United States,45000000.0,165184237.0
+464,army of darkness,1992,R,81,7.4,193000,Comedy,Sam Raimi,Sam Raimi,Ivan Raimi,Bruce Campbell,Embeth Davidtz,Marcus Gilbert,19,English,United States,13000000.0,11505925.0
+465,from dusk till dawn,1996,R,108,7.2,337000,Action,Robert Rodriguez,Robert Kurtzman,Quentin Tarantino,Harvey Keitel,George Clooney,Juliette Lewis,20,English,United States,19000000.0,25837111.0
+466,wag the dog,1997,R,97,7.1,88000,Comedy,Barry Levinson,Larry Beinhart,Hilary Henkin,Dustin Hoffman,Robert De Niro,Anne Heche,25,English,United States,15000000.0,64256513.0
+467,a monster calls,2016,PG-13,108,7.4,93000,Adventure,J.A. Bayona,Patrick Ness,Siobhan Dowd,Lewis MacDougall,Sigourney Weaver,Felicity Jones,96,English,United States,43000000.0,47309313.0
+468,tootsie,1982,PG,116,7.4,114000,Comedy,Sydney Pollack,Don McGuire,Larry Gelbart,Dustin Hoffman,Jessica Lange,Teri Garr,57,English,United States,21000000.0,177200271.0
+469,natural born killers,1994,R,119,7.2,250000,Action,Oliver Stone,Quentin Tarantino,David Veloz,Woody Harrelson,Juliette Lewis,Tom Sizemore,15,English,United States,34000000.0,50283563.0
+471,kinsey,2004,R,118,7.1,51000,Biography,Bill Condon,Bill Condon,-,Liam Neeson,Laura Linney,Chris O'Donnell,68,English,Germany,11000000.0,17050017.0
+472,21 jump street,2012,R,109,7.2,594000,Action,Phil Lord,Michael Bacall,Jonah Hill,Jonah Hill,Channing Tatum,Ice Cube,32,English,United States,42000000.0,201585328.0
+473,nixon,1995,R,192,7.1,33000,Biography,Oliver Stone,Stephen J. Rivele,Christopher Wilkinson,Anthony Hopkins,Joan Allen,Powers Boothe,29,English,United States,44000000.0,13681765.0
+474,narc,2002,R,105,7.1,43000,Crime,Joe Carnahan,Joe Carnahan,-,Ray Liotta,Jason Patric,Chi McBride,8,English,Germany,6500000.0,12633747.0
+475,heathers,1988,R,103,7.2,115000,Comedy,Michael Lehmann,Daniel Waters,-,Winona Ryder,Christian Slater,Shannen Doherty,14,English,United States,3000000.0,1163969.0
+476,thief,1981,R,123,7.4,38000,Action,Michael Mann,Michael Mann,Frank Hohimer,James Caan,Tuesday Weld,Willie Nelson,8,English,United States,5500000.0,11492915.0
+477,insomnia,2002,R,118,7.2,316000,Drama,Christopher Nolan,Hillary Seitz,Nikolaj Frobenius,Al Pacino,Robin Williams,Hilary Swank,11,English,United States,46000000.0,113758770.0
+478,the big red one,1980,R,113,7.1,21000,Drama,Samuel Fuller,Samuel Fuller,-,Lee Marvin,Mark Hamill,Robert Carradine,4,English,United States,4500000.0,7206823.0
+479,capitalism: a love story,2009,R,127,7.4,44000,Documentary,Michael Moore,Michael Moore,-,Michael Moore,William Black,Jimmy Carter,19,English,United States,20000000.0,17436509.0
+480,kids,1995,NC-17,91,7.0,84000,Drama,Larry Clark,Harmony Korine,Larry Clark,Leo Fitzpatrick,Justin Pierce,Chloë Sevigny,5,Spanish,United States,1500000.0,7412216.0
