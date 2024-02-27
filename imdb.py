@@ -19,12 +19,12 @@ with st.sidebar:
         icons=['house', 'graph-up-arrow'], menu_icon="cast", default_index=0)
 if selected == 'Home':
     st.markdown("## Tentang IMDB")
-    st.image('imdb.jpg')
+    st.image('image/imdb.jpg')
     st.write('**IMDb (singkatan dari Internet Movie Database)** adalah basis data online yang berisi informasi terkait film, serial televisi, podcast, video rumahan, video game, dan konten streaming online - termasuk pemeran, kru produksi, dan biografi pribadi, ringkasan plot, trivia, peringkat, serta ulasan penggemar dan kritikus. IMDb dimulai sebagai basis data film yang dioperasikan oleh penggemar di grup Usenet "rec.arts.movies" pada tahun 1990, dan pindah ke Web pada tahun 1993. Sejak tahun 1998, situs ini dimiliki dan dioperasikan oleh IMDb.com, Inc, anak perusahaan Amazon. Hingga Oktober 2018, IMDb memiliki kira-kira 5.3 juta film/acara (termasuk episode masing-masing) dan 9.3 tokoh di basis data tersebut. IMDb juga memiliki 83 juta pengguna terdaftar.')
     st.write('Pada project kali ini, kita akan melihat Top 400+ Movies All Time. Dataset saya ambil dari melakukan scrapping ke website [**IMDB**](https://www.imdb.com/) menggunakan Octoparse Apps.')
     st.write('-'*100)
     st.markdown("## Alur Pengerjaan Project")
-    st.image('Body.png')
+    st.image('image/Body.png')
     st.write('-'*100)
     st.markdown("## Penjelasan Dataset")
     st.write('**Data yang akan kita analisa :**')
@@ -45,7 +45,7 @@ if selected == 'Home':
 else :
     st.markdown("## Analisa")
     st.write("""Berikut merupakan dataframe yang akan kita gunakan :""")
-    df_imdb = pd.read_csv('imdb.csv')
+    df_imdb = pd.read_csv('dataset streamlit/imdb.csv')
     df_imdb['profit'] = df_imdb['gross_worldwide']-df_imdb['budget']
     st.write(df_imdb)
     st.write("-"*100)
