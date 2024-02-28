@@ -95,7 +95,6 @@ else :
     fig5 = px.bar(df_language, x='first_language', y='language')
     st.write(fig5)
     st.write("""Tentu hasil grafik tersebut tidaklah mengejutkan. Mengingat bahasa inggris sebagai bahasa internasional yang digunakan oleh seluruh dunia. Produser film pun harus bisa menyesuaikan penggunaan bahasa dialog dalam film agar nantinya bisa lebih dinikmati oleh banyak khalayak dan go internasional.""")
-    st.write("""edited""")
 
 
 
